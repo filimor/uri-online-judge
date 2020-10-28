@@ -1,4 +1,4 @@
-# Uri Online Judge
+# URI Online Judge
 
 > A collection of solutions for the URI Online Judge using C#, Dart, JavaScript, PHP, Python and SQL languages.
 
@@ -9,7 +9,7 @@
 ![GitHub license](https://img.shields.io/github/license/filimor/uri-online-judge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/filimor/uri-online-judge)
 
-*Read it in other languages:* [English](https://github.com/filimor/uri-online-judge/blob/master/README.md) :us:, [Português (Brasil)](https://github.com/filimor/uri-online-judge/blob/master/README.pt-br.md) :brazil:
+*Read it in other languages:* [English](https://github.com/filimor/uri-online-judge/blob/master/README.md) :us:, [Português (Brasil)](https://github.com/filimor/uri-online-judge/blob/master/README.pt-BR.md) :brazil:
 
 ## Description
 
@@ -77,6 +77,7 @@ If you want to help to translate the project or include other languages you're w
 
 - All problems by [URI Online Judge](https://www.urionlinejudge.com.br) Problems & Contest
 - All solutions coded by [@filimor](https://github.com/filimor)
+- The repository structure are based on the [URI-Potigol](https://github.com/potigol/URI-Potigol) project by [@Potigol](https://github.com/potigol)
 
 ## Contact
 

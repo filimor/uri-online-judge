@@ -1,4 +1,4 @@
-# Uri Online Judge
+# URI Online Judge
 
 > Uma coleção de soluções para o URI Online Judge usando as linguagens C#, Dart, JavaScript, PHP, Python e SQL.
 
@@ -77,6 +77,7 @@ Se você quer ajudar a traduzir o projeto ou incluir outras linguagens de progra
 
 - Todos os problemas foram criados por [URI Online Judge Problems & Contest](https://www.urionlinejudge.com.br) e seus autores
 - Todas as soluções foram codificadas por [@filimor](https://github.com/filimor)
+- A estrutura do repositório é baseada no projeto [URI-Potigol](https://github.com/potigol/URI-Potigol) de [@Potigol](https://github.com/potigol)
 
 ## Contato
 
