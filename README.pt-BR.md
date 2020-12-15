@@ -19,7 +19,7 @@ Este respositório é construído conforme os problemas são resolvidos no site 
 
 # Screenshots
 
-![Official website](uri1.gif "Screenshot 1") ![Official website](uri2.gif "Screenshot 2")
+![Official website](uri1.gif "Screenshot 1") ![Official website](uri2.gif "Screenshot 2") ![Official website](uri3.gif "Screenshot 3") ![Official website](uri4.gif "Screenshot 4")
 
 ## Pro
 
