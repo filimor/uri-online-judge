@@ -19,7 +19,7 @@ This repository is built as problems are solved on the website [URI Online Judge
 
 # Screenshots
 
-![Official website](uri1.gif "Screenshot 1") ![Official website](uri2.gif "Screenshot 2")
+![Official website](uri1.gif "Screenshot 1") ![Official website](uri2.gif "Screenshot 2") ![Official website](uri3.gif "Screenshot 3") ![Official website](uri4.gif "Screenshot 4")
 
 ## Problemas by category
 
