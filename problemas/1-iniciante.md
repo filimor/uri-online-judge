@@ -8,4 +8,5 @@
 1005 - Média 1 - [C#](1000/1005.cs) | [Dart](1000/1005.dart) | [JavaScript](1000/1005.js) | [PHP](1000/1005.php) | [Python](1000/1005.py)\
 1006 - Média 2 - [C#](1000/1006.cs) | [Dart](1000/1006.dart) | [JavaScript](1000/1006.js) | [PHP](1000/1006.php) | [Python](1000/1006.py)\
 1007 - Diferença - [C#](1000/1007.cs) | [Dart](1000/1007.dart) | [JavaScript](1000/1007.js) | [PHP](1000/1007.php) | [Python](1000/1007.py)\
-1008 - Salário - [C#](1000/1008.cs) | [Dart](1000/1008.dart) | [JavaScript](1000/1008.js) | [PHP](1000/1008.php) | [Python](1000/1008.py)
+1008 - Salário - [C#](1000/1008.cs) | [Dart](1000/1008.dart) | [JavaScript](1000/1008.js) | [PHP](1000/1008.php) | [Python](1000/1008.py)\
+1009 - Salário com Bônus - [C#](1000/1009.cs) | [Dart](1000/1009.dart) | [JavaScript](1000/1009.js) | [PHP](1000/1009.php) | [Python](1000/1009.py)
