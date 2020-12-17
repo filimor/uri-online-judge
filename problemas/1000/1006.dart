@@ -5,5 +5,5 @@ void main() {
   double b = double.parse(stdin.readLineSync());
   double c = double.parse(stdin.readLineSync());
   double media = (a * 2 + b * 3 + c * 5) / 10.0;
-  stdout.writeln("MEDIA = ${media.toStringAsFixed(1)}");
+  stdout.writeln('MEDIA = ${media.toStringAsFixed(1)}');
 }

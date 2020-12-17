@@ -4,5 +4,5 @@ void main() {
   int x = int.parse(stdin.readLineSync());
   int y = int.parse(stdin.readLineSync());
   int prod = x * y;
-  stdout.writeln("PROD = ${prod}");
+  stdout.writeln('PROD = ${prod}');
 }

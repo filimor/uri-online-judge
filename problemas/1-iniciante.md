@@ -6,4 +6,5 @@
 1003 - Soma Simples - [C#](1000/1003.cs) | [Dart](1000/1003.dart) | [JavaScript](1000/1003.js) | [PHP](1000/1003.php) | [Python](1000/1003.py)\
 1004 - Produto - [C#](1000/1004.cs) | [Dart](1000/1004.dart) | [JavaScript](1000/1004.js) | [PHP](1000/1004.php) | [Python](1000/1004.py)\
 1005 - Média 1 - [C#](1000/1005.cs) | [Dart](1000/1005.dart) | [JavaScript](1000/1005.js) | [PHP](1000/1005.php) | [Python](1000/1005.py)\
-1006 - Média 2 - [C#](1000/1006.cs) | [Dart](1000/1006.dart) | [JavaScript](1000/1006.js) | [PHP](1000/1006.php) | [Python](1000/1006.py)
+1006 - Média 2 - [C#](1000/1006.cs) | [Dart](1000/1006.dart) | [JavaScript](1000/1006.js) | [PHP](1000/1006.php) | [Python](1000/1006.py)\
+1007 - Diferença - [C#](1000/1007.cs) | [Dart](1000/1007.dart) | [JavaScript](1000/1007.js) | [PHP](1000/1007.php) | [Python](1000/1007.py)
