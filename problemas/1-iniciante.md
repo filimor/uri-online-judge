@@ -16,4 +16,5 @@
 **1013** - O Maior - [C#](1000/1013.cs) | [Dart](1000/1013.dart) | [JavaScript](1000/1013.js) | [PHP](1000/1013.php) | [Python](1000/1013.py)\
 **1014** - Consumo - [C#](1000/1014.cs) | [Dart](1000/1014.dart) | [JavaScript](1000/1014.js) | [PHP](1000/1014.php) | [Python](1000/1014.py)\
 **1015** - Distância Entre Dois Pontos - [C#](1000/1015.cs) | [Dart](1000/1015.dart) | [JavaScript](1000/1015.js) | [PHP](1000/1015.php) | [Python](1000/1015.py)\
-**1016** - Distância - [C#](1000/1016.cs) | [Dart](1000/1016.dart) | [JavaScript](1000/1016.js) | [PHP](1000/1016.php) | [Python](1000/1016.py)
+**1016** - Distância - [C#](1000/1016.cs) | [Dart](1000/1016.dart) | [JavaScript](1000/1016.js) | [PHP](1000/1016.php) | [Python](1000/1016.py)\
+**1017** - Gasto de Combustível - [C#](1000/1017.cs) | [Dart](1000/1017.dart) | [JavaScript](1000/1017.js) | [PHP](1000/1017.php) | [Python](1000/1017.py)
