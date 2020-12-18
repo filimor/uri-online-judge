@@ -10,4 +10,5 @@
 **1007** - Diferença - [C#](1000/1007.cs) | [Dart](1000/1007.dart) | [JavaScript](1000/1007.js) | [PHP](1000/1007.php) | [Python](1000/1007.py)\
 **1008** - Salário - [C#](1000/1008.cs) | [Dart](1000/1008.dart) | [JavaScript](1000/1008.js) | [PHP](1000/1008.php) | [Python](1000/1008.py)\
 **1009** - Salário com Bônus - [C#](1000/1009.cs) | [Dart](1000/1009.dart) | [JavaScript](1000/1009.js) | [PHP](1000/1009.php) | [Python](1000/1009.py)\
-**1010** - Cálculo Simples - [C#](1000/1010.cs) | [Dart](1000/1010.dart) | [JavaScript](1000/1010.js) | [PHP](1000/1010.php) | [Python](1000/1010.py)
+**1010** - Cálculo Simples - [C#](1000/1010.cs) | [Dart](1000/1010.dart) | [JavaScript](1000/1010.js) | [PHP](1000/1010.php) | [Python](1000/1010.py)\
+**1011** - Esfera - [C#](1000/1011.cs) | [Dart](1000/1011.dart) | [JavaScript](1000/1011.js) | [PHP](1000/1011.php) | [Python](1000/1011.py)
