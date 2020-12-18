@@ -1,6 +1,6 @@
 <?php
 
-$a = (int)readline();
-$b = (int)readline();
+$a = readline();
+$b = readline();
 $soma = $a + $b;
 echo("SOMA = {$soma}\n");

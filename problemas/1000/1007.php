@@ -1,8 +1,8 @@
 <?php
 
-$a = (int)readline();
-$b = (int)readline();
-$c = (int)readline();
-$d = (int)readline();
+$a = readline();
+$b = readline();
+$c = readline();
+$d = readline();
 $diferenca = $a * $b - $c * $d;
 echo("DIFERENCA = {$diferenca}\n");

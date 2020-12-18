@@ -1,6 +1,6 @@
 <?php
 
-$x = (int)readline();
-$y = (int)readline();
+$x = readline();
+$y = readline();
 $prod = $x * $y;
 echo("PROD = {$prod}\n");

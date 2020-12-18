@@ -1,7 +1,7 @@
-var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var entrada = require('fs').readFileSync('/dev/stdin', 'utf8');
 
-var lines = input.split('\n');
-var x = lines.shift();
-var y = lines.shift();
+var linhas = entrada.split('\n');
+var x = linhas.shift();
+var y = linhas.shift();
 var prod = x * y;
 console.log(`PROD = ${prod}`);

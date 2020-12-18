@@ -1,6 +1,6 @@
 <?php
 
-$a = (int)readline();
-$b = (int)readline();
+$a = readline();
+$b = readline();
 $x = $a + $b;
 echo("X = {$x}\n");
