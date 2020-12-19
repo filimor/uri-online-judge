@@ -1,6 +1,6 @@
 using System;
 
-namespace uri1018
+namespace uri1019
 {
     internal static class Program
     {
