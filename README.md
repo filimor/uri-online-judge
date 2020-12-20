@@ -62,6 +62,7 @@ This repository is built as problems are solved on the website [URI Online Judge
 
 - [Microsoft Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/vs/community/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [PyCharm 2020 Community](https://www.jetbrains.com/pycharm/)
 - [uDebug](https://www.udebug.com/)
 
 ## Contributing
