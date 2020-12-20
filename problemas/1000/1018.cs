@@ -6,7 +6,7 @@ namespace uri1018
     {
         private static void Main()
         {
-            int[] cedulas = new int[7]{100, 50, 20, 10, 5, 2, 1};
+            int[] cedulas = new int[7] { 100, 50, 20, 10, 5, 2, 1 };
             int valor = int.Parse(Console.ReadLine());
             Console.WriteLine(valor);
 

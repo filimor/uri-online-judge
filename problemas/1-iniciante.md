@@ -20,4 +20,5 @@
 **1017** - Gasto de Combustível - [C#](1000/1017.cs) | [Dart](1000/1017.dart) | [JavaScript](1000/1017.js) | [PHP](1000/1017.php) | [Python](1000/1017.py)\
 **1018** - Cédulas - [C#](1000/1018.cs) | [Dart](1000/1018.dart) | [JavaScript](1000/1018.js) | [PHP](1000/1018.php) | [Python](1000/1018.py)\
 **1019** - Conversão de Tempo - [C#](1000/1019.cs) | [Dart](1000/1019.dart) | [JavaScript](1000/1019.js) | [PHP](1000/1019.php) | [Python](1000/1019.py)\
-**1020** - Idade em Dias - [C#](1000/1020.cs) | [Dart](1000/1020.dart) | [JavaScript](1000/1020.js) | [PHP](1000/1020.php) | [Python](1000/1020.py)
+**1020** - Idade em Dias - [C#](1000/1020.cs) | [Dart](1000/1020.dart) | [JavaScript](1000/1020.js) | [PHP](1000/1020.php) | [Python](1000/1020.py)\
+**1021** - Notas e Moedas - [C#](1000/1021.cs) | [Dart](1000/1021.dart) | [JavaScript](1000/1021.js) | [PHP](1000/1021.php) | [Python](1000/1021.py)
