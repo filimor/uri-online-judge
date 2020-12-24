@@ -24,4 +24,5 @@
 **1021** - Notas e Moedas - [C#](1000/1021.cs) | [Dart](1000/1021.dart) | [JavaScript](1000/1021.js) | [PHP](1000/1021.php) | [Python](1000/1021.py)\
 **1035** - Teste de Seleção 1 - [C#](1000/1035.cs) | [Dart](1000/1035.dart) | [JavaScript](1000/1035.js) | [PHP](1000/1035.php) | [Python](1000/1035.py)\
 **1036** - Fórmula de Bhaskara - [C#](1000/1036.cs) | [Dart](1000/1036.dart) | [JavaScript](1000/1036.js) | [PHP](1000/1036.php) | [Python](1000/1036.py)\
-**1037** - Intervalo - [C#](1000/1037.cs) | [Dart](1000/1037.dart) | [JavaScript](1000/1037.js) | [PHP](1000/1037.php) | [Python](1000/1037.py)
+**1037** - Intervalo - [C#](1000/1037.cs) | [Dart](1000/1037.dart) | [JavaScript](1000/1037.js) | [PHP](1000/1037.php) | [Python](1000/1037.py)\
+**1038** - Lanche - [C#](1000/1038.cs) | [Dart](1000/1038.dart) | [JavaScript](1000/1038.js) | [PHP](1000/1038.php) | [Python](1000/1038.py)
