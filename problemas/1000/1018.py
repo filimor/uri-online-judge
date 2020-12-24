@@ -4,5 +4,5 @@ valor = int(input())
 print(valor)
 
 for cedula in cedulas:
-  print('{} nota(s) de R$ {},00'.format(valor // cedula, cedula))
-  valor %= cedula
+    print('{} nota(s) de R$ {},00'.format(valor // cedula, cedula))
+    valor %= cedula

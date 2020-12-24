@@ -6,7 +6,7 @@ $valor = readline();
 echo($valor . "\n");
 
 foreach($cedulas as $cedula) {
-  $quantidade = intdiv($valor, $cedula);
-  echo("{$quantidade} nota(s) de R$ {$cedula},00\n");
-  $valor %= $cedula;
+    $quantidade = intdiv($valor, $cedula);
+    echo("{$quantidade} nota(s) de R$ {$cedula},00\n");
+    $valor %= $cedula;
 }
