@@ -6,7 +6,7 @@ namespace uri1015
     {
         private static void Main()
         {
-            string[] entrada = Console.ReadLine().Split(' ');
+            var entrada = Console.ReadLine().Split(' ');
             double x1 = double.Parse(entrada[0]);
             double y1 = double.Parse(entrada[1]);
             entrada = Console.ReadLine().Split(' ');
