@@ -22,4 +22,5 @@
 **1019** - Conversão de Tempo - [C#](1000/1019.cs) | [Dart](1000/1019.dart) | [JavaScript](1000/1019.js) | [PHP](1000/1019.php) | [Python](1000/1019.py)\
 **1020** - Idade em Dias - [C#](1000/1020.cs) | [Dart](1000/1020.dart) | [JavaScript](1000/1020.js) | [PHP](1000/1020.php) | [Python](1000/1020.py)\
 **1021** - Notas e Moedas - [C#](1000/1021.cs) | [Dart](1000/1021.dart) | [JavaScript](1000/1021.js) | [PHP](1000/1021.php) | [Python](1000/1021.py)\
-**1035** - Teste de Seleção 1 - [C#](1000/1035.cs) | [Dart](1000/1035.dart) | [JavaScript](1000/1035.js) | [PHP](1000/1035.php) | [Python](1000/1035.py)
+**1035** - Teste de Seleção 1 - [C#](1000/1035.cs) | [Dart](1000/1035.dart) | [JavaScript](1000/1035.js) | [PHP](1000/1035.php) | [Python](1000/1035.py)\
+**1036** - Fórmula de Bhaskara - [C#](1000/1036.cs) | [Dart](1000/1036.dart) | [JavaScript](1000/1036.js) | [PHP](1000/1036.php) | [Python](1000/1036.py)
