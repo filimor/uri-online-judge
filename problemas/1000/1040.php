@@ -15,7 +15,7 @@ echo("Media: " . number_format($media, 1, '.', '') . "\n");
 
 if ($media >= 7.0) {
     echo("Aluno aprovado.\n");
-} else if ($media < 5.0) {
+} elseif ($media < 5.0) {
     echo("Aluno reprovado.\n");
 } else {
     echo("Aluno em exame.\n");

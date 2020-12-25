@@ -26,4 +26,5 @@
 **1036** - Fórmula de Bhaskara - [C#](1000/1036.cs) | [Dart](1000/1036.dart) | [JavaScript](1000/1036.js) | [PHP](1000/1036.php) | [Python](1000/1036.py)\
 **1037** - Intervalo - [C#](1000/1037.cs) | [Dart](1000/1037.dart) | [JavaScript](1000/1037.js) | [PHP](1000/1037.php) | [Python](1000/1037.py)\
 **1038** - Lanche - [C#](1000/1038.cs) | [Dart](1000/1038.dart) | [JavaScript](1000/1038.js) | [PHP](1000/1038.php) | [Python](1000/1038.py)\
-**1040** - Média 3 - [C#](1000/1040.cs) | [Dart](1000/1040.dart) | [JavaScript](1000/1040.js) | [PHP](1000/1040.php) | [Python](1000/1040.py)
+**1040** - Média 3 - [C#](1000/1040.cs) | [Dart](1000/1040.dart) | [JavaScript](1000/1040.js) | [PHP](1000/1040.php) | [Python](1000/1040.py)\
+**1041** - Coordenadas de um Ponto - [C#](1000/1041.cs) | [Dart](1000/1041.dart) | [JavaScript](1000/1041.js) | [PHP](1000/1041.php) | [Python](1000/1041.py) | [C# - .NET 5 (**não suportado**)](1000/1041.net5.cs)
