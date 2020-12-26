@@ -1,7 +1,6 @@
-var entrada = require('fs').readFileSync('/dev/stdin', 'utf-8').split(' ');
+var entrada = require('fs').readFileSync('/dev/stdin', 'utf-8');
 
-var x = entrada.shift();
-var y = entrada.shift();
+var [x, y] = entrada.split(' ');
 var quadrante = x == 0 && y == 0 ?
   "Origem" : x == 0 ?
   "Eixo Y" : y == 0 ?
