@@ -1,6 +1,4 @@
-entrada = input().split(' ')
-codigo = int(entrada[0])
-quantidade = int(entrada[1])
+(codigo, quantidade) = map(int, input().split(' '))
 
 itens = {
     1: 4.00,

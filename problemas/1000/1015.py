@@ -1,11 +1,6 @@
 import math
 
-entrada = input().split(' ')
-x1 = float(entrada[0])
-y1 = float(entrada[1])
-entrada = input().split(' ')
-x2 = float(entrada[0])
-y2 = float(entrada[1])
-
+(x1, y1) = map(float, input().split(' '))
+(x2, y2) = map(float, input().split(' '))
 distancia = math.sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2))
 print('{:.4f}'.format(distancia))

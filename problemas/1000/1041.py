@@ -1,6 +1,4 @@
-entrada = input().split(' ')
-x = float(entrada[0])
-y = float(entrada[1])
+(x, y) = map(float, input().split(' '))
 quadrante = ''
 
 if x == 0 and y == 0:

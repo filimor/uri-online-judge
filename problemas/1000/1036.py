@@ -1,9 +1,6 @@
 import math
 
-entrada = input().split(' ')
-a = float(entrada[0])
-b = float(entrada[1])
-c = float(entrada[2])
+(a, b, c) = map(float, input().split(' '))
 delta = b * b - 4 * a * c
 
 if delta < 0 or a == 0:

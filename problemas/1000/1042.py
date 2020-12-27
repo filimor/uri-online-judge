@@ -1,7 +1,4 @@
-entrada = input().split(' ')
-a = int(entrada[0])
-b = int(entrada[1])
-c = int(entrada[2])
+(a, b, c) = map(int, input().split(' '))
 
 numeros = [a, b, c]
 numeros.sort()

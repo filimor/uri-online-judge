@@ -1,8 +1,4 @@
-entrada = input().split(' ')
-n1 = float(entrada[0])
-n2 = float(entrada[1])
-n3 = float(entrada[2])
-n4 = float(entrada[3])
+(n1, n2, n3, n4) = map(float, input().split(' '))
 media = (n1 * 2 + n2 * 3 + n3 * 4 + n4) / 10
 
 print('Media: {:.1f}'.format(media))
