@@ -1,7 +1,7 @@
 (x, y) = map(float, input().split(' '))
 quadrante = ''
 
-if x == 0 and y == 0:
+if x == y == 0:
     quadrante = 'Origem'
 elif x == 0:
     quadrante = 'Eixo Y'
