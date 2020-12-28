@@ -1,5 +1,2 @@
-var entrada = require('fs').readFileSync('/dev/stdin', 'utf8');
-
-var [a, b, c, d] = entrada.split('\n');
-var diferenca = a * b - c * d;
-console.log(`DIFERENCA = ${diferenca}`);
+var [a, b, c, d] = require('fs').readFileSync('/dev/stdin', 'utf8').split('\n');
+console.log(`DIFERENCA = ${a * b - c * d}`);

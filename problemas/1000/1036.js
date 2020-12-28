@@ -1,8 +1,5 @@
 var entrada = require('fs').readFileSync('/dev/stdin', 'utf-8').split(' ');
-
-var a = Number(entrada.shift());
-var b = Number(entrada.shift());
-var c = Number(entrada.shift());
+var [a, b, c] = entrada.map(x => Number(x));
 var delta = b * b - 4.0 * a * c;
 
 if (delta < 0 || a == 0) {

@@ -1,7 +1,5 @@
 var entrada = require('fs').readFileSync('/dev/stdin', 'utf-8').split(' ');
-var a = Number(entrada.shift());
-var b = Number(entrada.shift());
-var c = Number(entrada.shift());
+var [a, b, c] = entrada.map(x => Number(x));
 
 if (Math.abs(b - c) < a && Math.abs(a - c) < b && Math.abs(a - b) < c &&
     a < b + c && b < a + c && c < a + b) {

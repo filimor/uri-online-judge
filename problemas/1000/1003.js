@@ -1,7 +1,4 @@
-var entrada = require('fs').readFileSync('/dev/stdin', 'utf8');
+var entrada = require('fs').readFileSync('/dev/stdin', 'utf8').split('\n');
+var [a, b] = entrada.map(x => Number(x));
 
-var linhas = entrada.split('\n');
-var a = Number(linhas.shift());
-var b = Number(linhas.shift());
-var soma = a + b;
-console.log(`SOMA = ${soma}`);
+console.log(`SOMA = ${a + b}`);
