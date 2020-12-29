@@ -31,4 +31,5 @@
 **1042** - Sort Simples - [C#](1000/1042.cs) | [Dart](1000/1042.dart) | [JavaScript](1000/1042.js) | [PHP](1000/1042.php) | [Python](1000/1042.py)\
 **1043** - Triângulo - [C#](1000/1043.cs) | [Dart](1000/1043.dart) | [JavaScript](1000/1043.js) | [PHP](1000/1043.php) | [Python](1000/1043.py)\
 **1044** - Múltiplos - [C#](1000/1044.cs) | [Dart](1000/1044.dart) | [JavaScript](1000/1044.js) | [PHP](1000/1044.php) | [Python](1000/1044.py)\
-**1045** - Tipos de Triângulos - [C#](1000/1045.cs) | [Dart](1000/1045.dart) | [JavaScript](1000/1045.js) | [PHP](1000/1045.php) | [Python](1000/1045.py)
+**1045** - Tipos de Triângulos - [C#](1000/1045.cs) | [Dart](1000/1045.dart) | [JavaScript](1000/1045.js) | [PHP](1000/1045.php) | [Python](1000/1045.py)\
+**1046** - Tempo de Jogo - [C#](1000/1046.cs) | [Dart](1000/1046.dart) | [JavaScript](1000/1046.js) | [PHP](1000/1046.php) | [Python](1000/1046.py)
