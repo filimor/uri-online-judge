@@ -1,4 +1,4 @@
-var dias = require('fs').readFileSync('/dev/stdin', 'utf-8');
+let dias = require('fs').readFileSync('/dev/stdin', 'utf-8');
 
 console.log(`${Number(dias / 365)} ano(s)`);
 dias %= 365;

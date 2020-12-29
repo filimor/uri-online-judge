@@ -1,5 +1,4 @@
-var [numero, horas, valor] = require('fs').readFileSync('/dev/stdin', 'utf-8').split('\n');
-var salario = horas * valor;
+const [numero, horas, valor] = require('fs').readFileSync('/dev/stdin', 'utf-8').split('\n');
 
 console.log(`NUMBER = ${numero}`);
-console.log(`SALARY = U$ ${salario.toFixed(2)}`);
+console.log(`SALARY = U$ ${(horas * valor).toFixed(2)}`);

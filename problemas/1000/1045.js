@@ -1,6 +1,6 @@
-var lados = require('fs').readFileSync('/dev/stdin', 'utf-8').split(' ').map(x => Number(x));
-var [a, b, c] = lados.sort((a, b) => b - a);
-var saida;
+const lados = require('fs').readFileSync('/dev/stdin', 'utf-8').split(' ').map(x => Number(x));
+const [a, b, c] = lados.sort((a, b) => b - a);
+let saida;
 
 if (a >= b + c) {
   saida = 'NAO FORMA TRIANGULO';

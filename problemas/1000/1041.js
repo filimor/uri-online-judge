@@ -1,5 +1,4 @@
-var entrada = require('fs').readFileSync('/dev/stdin', 'utf-8');
-var [x, y] = entrada.split(' ');
+const [x, y] = require('fs').readFileSync('/dev/stdin', 'utf-8').split(' ');
 
 var quadrante = x == 0 && y == 0 ?
   "Origem" : x == 0 ?

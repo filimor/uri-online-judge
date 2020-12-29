@@ -1,11 +1,7 @@
-var entrada = require('fs').readFileSync('/dev/stdin', 'utf-8').split('\n');
+const entrada = require('fs').readFileSync('/dev/stdin', 'utf-8').split('\n');
 
-var notas = entrada.shift().split(' ');
-var n1 = Number(notas.shift());
-var n2 = Number(notas.shift());
-var n3 = Number(notas.shift());
-var n4 = Number(notas.shift());
-var media = (n1 * 2.0 + n2 * 3.0 + n3 * 4.0 + n4) / 10.0;
+const [n1, n2, n3, n4] = entrada.shift().split(' ').map(x => Number(x));
+const media = (n1 * 2.0 + n2 * 3.0 + n3 * 4.0 + n4) / 10.0;
 
 console.log(`Media: ${media.toFixed(1)}`);
 
@@ -15,9 +11,9 @@ if (media >= 7.0) {
   console.log('Aluno reprovado.');
 } else {
   console.log('Aluno em exame.');
-  var exame = Number(entrada.shift());
+  const exame = Number(entrada.shift());
   console.log(`Nota do exame: ${exame.toFixed(1)}`);
-  media = (exame + media) / 2.0;
-  console.log(media >= 5.0 ? 'Aluno aprovado.' : 'Aluno reprovado.');
-  console.log(`Media final: ${media.toFixed(1)}`);
+  const mediaFinal = (exame + media) / 2.0;
+  console.log(mediaFinal >= 5.0 ? 'Aluno aprovado.' : 'Aluno reprovado.');
+  console.log(`Media final: ${mediaFinal.toFixed(1)}`);
 }

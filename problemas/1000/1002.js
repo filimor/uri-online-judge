@@ -1,3 +1,3 @@
-var raio = require('fs').readFileSync('/dev/stdin', 'utf8');
-var area = 3.14159 * raio * raio;
-console.log(`A=${area.toFixed(4)}`);
+const raio = require('fs').readFileSync('/dev/stdin', 'utf8');
+
+console.log(`A=${(3.14159 * raio * raio).toFixed(4)}`);

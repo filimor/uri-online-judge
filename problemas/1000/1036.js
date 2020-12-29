@@ -1,6 +1,5 @@
-var entrada = require('fs').readFileSync('/dev/stdin', 'utf-8').split(' ');
-var [a, b, c] = entrada.map(x => Number(x));
-var delta = b * b - 4.0 * a * c;
+const [a, b, c] = require('fs').readFileSync('/dev/stdin', 'utf-8').split(' ').map(x => Number(x));
+const delta = b * b - 4.0 * a * c;
 
 if (delta < 0 || a == 0) {
   console.log('Impossivel calcular');

@@ -1,5 +1,5 @@
-var entrada = require('fs').readFileSync('/dev/stdin', 'utf-8');
-var intervalo;
+const entrada = require('fs').readFileSync('/dev/stdin', 'utf-8');
+let intervalo;
 
 if (entrada >= 0 && entrada <= 25) {
   intervalo = "Intervalo [0,25]";
