@@ -26,8 +26,7 @@ todos em português. Infelizmente, o restante das páginas do repositório perma
 
 ## Screenshots
 
-![Official website](uri1.gif "Screenshot 1") ![Official website](uri2.gif "Screenshot 2")
-![Official website](uri3.gif "Screenshot 3") ![Official website](uri4.gif "Screenshot 4")
+![Official website](screenshot.png "Screenshots")
 
 ## Problemas por categoria
 
@@ -65,6 +64,31 @@ todos em português. Infelizmente, o restante das páginas do repositório perma
 [2900 a 2999](problemas/2900) |
 [3000 a 3099](problemas/3000) |
 [3100 a 3199](problemas/3100)
+
+## Código de Ética
+
+Os códigos das soluções para os problemas da URI podem ser utilizados em repositórios proprietários, mas sua
+reutilização de forma desonesta na plataforma é proibida, conforme os trechos da FAQ e dos Termos e Condições do site
+citados abaixo:
+
+### Sobre Compartilhamento de Código-Fonte
+
+> "Usuários podem compartilhar suas soluções (códigos-fonte) em repositórios públicos (como GitHub, BitBucket ou
+> semelhantes) e sites pessoais de acordo com sua vontade. Todavia, fica proibido o uso destes por parte de terceiros
+> no URI Online Judge. Os usuários que porventura façam uso desta prática podem ter suas contas desativadas sem aviso
+> prévio".
+
+Disponível em:
+[https://www.urionlinejudge.com.br/judge/pt/terms-and-conditions](https://www.urionlinejudge.com.br/judge/pt/terms-and-conditions)
+
+### Posso copiar códigos da internet e postar no meu usuário?
+
+> ​"Infelizmente, por mais que alguns usuários adotem esta política para resolver problemas e subir no ranking, isso não
+> é legal. Caracteriza Falsidade Ideológica e caso o nosso sistema detecte tal plágio, o usuário pode ser convidado a
+> se retratar e a sua conta também é passível de cancelamento".
+
+Disponível em:
+[https://www.urionlinejudge.com.br/judge/pt/faqs/about/judge](https://www.urionlinejudge.com.br/judge/pt/faqs/about/judge)
 
 ## Feito com
 

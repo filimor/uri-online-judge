@@ -26,8 +26,7 @@ Unfortunately, the rest of the repository pages remains without translation.
 
 ## Screenshots
 
-![Official website](uri1.gif "Screenshot 1") ![Official website](uri2.gif "Screenshot 2")
-![Official website](uri3.gif "Screenshot 3") ![Official website](uri4.gif "Screenshot 4")
+![Official website](screenshot.png "Screenshots")
 
 ## Problemas by category
 
@@ -65,6 +64,30 @@ Unfortunately, the rest of the repository pages remains without translation.
 [2900 a 2999](problemas/2900) |
 [3000 a 3099](problemas/3000) |
 [3100 a 3199](problemas/3100)
+
+## Code of Ethics
+
+The solutions codes to the URI problems can be used in proprietary repositories, but dishonest reusing it in on that
+platform is forbidden, according to the following sections of FAQ and Terms & Conditions:
+
+### About source-code sharing
+
+> Users may share their solutions (source codes) in public repositories (such as GitHub, BitBucket or similar) and in
+> personal sites according to their own will. However, the use of these by third parties as a way to obtain any type of
+> advantage within the URI Online Judge is prohibited. Users who may adhere to this practice may have their accounts
+> disabled without prior notice.
+
+Available at:
+[https://www.urionlinejudge.com.br/judge/terms-and-conditions](https://www.urionlinejudge.com.br/judge/terms-and-conditions)
+
+### Can I copy codes from the Internet and posting on my server?
+
+> Even more than a few users, unfortunately, adopt this policy to solve problems and move up the rankings, that's not
+> cool. That is Falsehood Ideological and if our system detects such plagiarism, you may be asked to recant and your
+> account is also subject to cancellation.
+
+Available at:
+[https://www.urionlinejudge.com.br/judge/faqs/about/judge](https://www.urionlinejudge.com.br/judge/faqs/about/judge)
 
 ## Build With
 
