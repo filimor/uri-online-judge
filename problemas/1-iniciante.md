@@ -30,4 +30,5 @@
 **1041** - Coordenadas de um Ponto - [C#](1000/1041.cs) | [Dart](1000/1041.dart) | [JavaScript](1000/1041.js) | [PHP](1000/1041.php) | [Python](1000/1041.py) | [C# - .NET 5 (**não suportado**)](1000/1041.net5.cs)\
 **1042** - Sort Simples - [C#](1000/1042.cs) | [Dart](1000/1042.dart) | [JavaScript](1000/1042.js) | [PHP](1000/1042.php) | [Python](1000/1042.py)\
 **1043** - Triângulo - [C#](1000/1043.cs) | [Dart](1000/1043.dart) | [JavaScript](1000/1043.js) | [PHP](1000/1043.php) | [Python](1000/1043.py)\
-**1044** - Múltiplos - [C#](1000/1044.cs) | [Dart](1000/1044.dart) | [JavaScript](1000/1044.js) | [PHP](1000/1044.php) | [Python](1000/1044.py)
+**1044** - Múltiplos - [C#](1000/1044.cs) | [Dart](1000/1044.dart) | [JavaScript](1000/1044.js) | [PHP](1000/1044.php) | [Python](1000/1044.py)\
+**1045** - Tipos de Triângulos - [C#](1000/1045.cs) | [Dart](1000/1045.dart) | [JavaScript](1000/1045.js) | [PHP](1000/1045.php) | [Python](1000/1045.py)
