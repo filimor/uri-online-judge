@@ -19,7 +19,7 @@ Exemplos de comportamentos que contribuem para criar um ambiente positivo para a
 Exemplos de comportamentos inaceitáveis incluem:
 
 * Uso de linguagem ou imagens sexualizadas, bem como o assédio sexual ou de qualquer natureza
-* Comentários insultuosos/depreciativos e ataques pessoais ou políticos (*Trolling*)
+* Comentários insultuosos/depreciativos e ataques pessoais ou políticos (*Trolagem*)
 * Assédio público ou privado
 * Publicar informações particulares de outras pessoas, como um endereço de e-mail ou endereço físico, sem a permissão explícita delas
 * Outras condutas que são normalmente consideradas inapropriadas em um ambiente profissional
@@ -75,12 +75,12 @@ A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade pa
 
 Este Código de Conduta é adaptado do [Contributor Covenant][homepage],
 versão 2.0, disponível em
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+[https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
 As Diretrizes de Impacto na Comunidade foram inspiradas pela [Aplicação do código de conduta Mozilla](https://github.com/mozilla/diversity).
 
-[homepage]: https://www.contributor-covenant.org
-
 Para obter respostas a perguntas comuns sobre este código de conduta, veja a página de Perguntas Frequentes (*FAQ*) em
-https://www.contributor-covenant.org/faq. Traduções estão disponíveis em
-https://www.contributor-covenant.org/translations.
+[https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Traduções estão disponíveis em
+[https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
+
+[homepage]: https://www.contributor-covenant.org

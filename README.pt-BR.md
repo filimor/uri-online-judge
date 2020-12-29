@@ -9,19 +9,27 @@
 ![GitHub license](https://img.shields.io/github/license/filimor/uri-online-judge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/filimor/uri-online-judge)
 
-*Leia em outros idiomas:* [English](https://github.com/filimor/uri-online-judge/blob/master/README.md) :us:, [Português (Brasil)](https://github.com/filimor/uri-online-judge/blob/master/README.pt-br.md) :brazil:
+*Leia em outros idiomas:* [English](https://github.com/filimor/uri-online-judge/blob/master/README.md) :us:,
+[Português (Brasil)](https://github.com/filimor/uri-online-judge/blob/master/README.pt-br.md) :brazil:
 
 ## Description
 
-Este respositório é construído conforme os problemas são resolvidos no site [URI Online Judge Problems and Contests](https://www.urionlinejudge.com.br/), que tem mais de 2100 problemas e 9 categorias principais. Suporta várias linguagens (incluindo C, C++, C#, Dart, Go, Haskell, Java, JavaScript, Kotlin, Lua, Pascal, PHP, Python, Ruby e Scala) e é muito útil para praticar e aprender lógica de programação e algoritmos. O site está disponível em inglês, português e espanhol. Apesar do nome do repositório e arquivo LEIAME seguirem as convenções do código aberto (o inglês), os nomes dos problemas e suas descrições, nomes de váriaveis e strings estão todos em português. Infelizmente, o restante das páginas do repositório permanece sem tradução.
+Este repositório é construído conforme os problemas são resolvidos no site
+[URI Online Judge Problems and Contests](https://www.urionlinejudge.com.br/), que tem mais de 2100 problemas e 9
+categorias principais. Suporta várias linguagens (incluindo C, C++, C#, Dart, Go, Haskell, Java, JavaScript, Kotlin,
+Lua, Pascal, PHP, Python, Ruby e Scala) e é muito útil para praticar e aprender lógica de programação e algoritmos. O
+site está disponível em inglês, português e espanhol. Apesar do nome do repositório e arquivo LEIAME seguirem as
+convenções do código aberto (o inglês), os nomes dos problemas e suas descrições, nomes de variáveis e strings estão
+todos em português. Infelizmente, o restante das páginas do repositório permanece sem tradução.
 
 <!--![Problemas resolvidos]() //TODO-->
 
-# Screenshots
+## Screenshots
 
-![Official website](uri1.gif "Screenshot 1") ![Official website](uri2.gif "Screenshot 2") ![Official website](uri3.gif "Screenshot 3") ![Official website](uri4.gif "Screenshot 4")
+![Official website](uri1.gif "Screenshot 1") ![Official website](uri2.gif "Screenshot 2")
+![Official website](uri3.gif "Screenshot 3") ![Official website](uri4.gif "Screenshot 4")
 
-## Pro
+## Problemas por categoria
 
 1. [Iniciante](problemas/1-iniciante.md) - Problemas básicos para quem está iniciando na programação...
 2. [Ad-Hoc](problemas/2-ad-hoc.md) - Problemas de Simulação, Datas e Ad-Hoc no geral...
@@ -67,26 +75,30 @@ Este respositório é construído conforme os problemas são resolvidos no site 
 
 ## Como contribuir
 
-Se você quer ajudar a traduzir o projeto ou incluir outras linguagens de programação, sua ajuda é bem-vinda! por favor verifique as [normas de contribuição](https://github.com/filimor/uri-online-judge/blob/master/CONTRIBUTING.md) (em inglês) e siga o nosso [código de conduta](https://github.com/filimor/uri-online-judge/blob/master/CODE_OF_CONDUCT.pt-BR.md).
+Se você quer ajudar a traduzir o projeto ou incluir outras linguagens de programação, sua ajuda é bem-vinda! por favor
+siga o nosso [código de conduta](https://github.com/filimor/uri-online-judge/blob/master/CODE_OF_CONDUCT.pt-BR.md).
 
-## Tranduções
+## Traduções
 
-* [English](https://github.com/filimor/uri-online-judge/blob/master/README.md)
-* [Português (Brasil)](https://github.com/filimor/uri-online-judge/blob/master/README.pt-br.md)
+- [English](https://github.com/filimor/uri-online-judge/blob/master/README.md)
+- [Português (Brasil)](https://github.com/filimor/uri-online-judge/blob/master/README.pt-br.md)
 
 ## Créditos
 
-- Todos os problemas foram criados por [URI Online Judge Problems & Contest](https://www.urionlinejudge.com.br) e seus autores
+- Todos os problemas foram criados por [URI Online Judge Problems & Contest](https://www.urionlinejudge.com.br) e seus
+autores
 - Todas as soluções foram codificadas por [@filimor](https://github.com/filimor)
-- A estrutura do repositório é baseada no projeto [URI-Potigol](https://github.com/potigol/URI-Potigol) de [@Potigol](https://github.com/potigol)
+- A estrutura do repositório é baseada no projeto [URI-Potigol](https://github.com/potigol/URI-Potigol) de
+[@Potigol](https://github.com/potigol)
 
 ## Contato
 
-- E-mail: filimor@posteo.net
-- LinkedIn: https://www.linkedin.com/in/filimor/
-- Twitter: https://www.twitter.com/filimorbr/
-- Perfil na URI: https://www.urionlinejudge.com.br/judge/pt/users/statistics/353923
+- [E-mail](mailto:filimor@posteo.net)
+- [LinkedIn](https://www.linkedin.com/in/filimor/)
+- [Twitter](https://www.twitter.com/filimorbr/)
+- [Perfil na URI](https://www.urionlinejudge.com.br/judge/pt/users/statistics/353923)
 
 ## Licença
 
-Este projeto é licenciado sob uma liceça MIT - veja [LICENSE.md](https://github.com/filimor/uri-online-judge/blob/master/LICENSE "MIT") para mais detalhes (em inglês).
+Este projeto é licenciado sob uma licença MIT - veja
+[LICENSE.md](https://github.com/filimor/uri-online-judge/blob/master/LICENSE "MIT") para mais detalhes (em inglês).
