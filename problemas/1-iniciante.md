@@ -34,4 +34,5 @@
 **1045** - Tipos de Triângulos - [C#](1000/1045.cs) | [Dart](1000/1045.dart) | [JavaScript](1000/1045.js) | [PHP](1000/1045.php) | [Python](1000/1045.py)\
 **1046** - Tempo de Jogo - [C#](1000/1046.cs) | [Dart](1000/1046.dart) | [JavaScript](1000/1046.js) | [PHP](1000/1046.php) | [Python](1000/1046.py)\
 **1047** - Tempo de Jogo com Minutos - [C#](1000/1047.cs) | [Dart](1000/1047.dart) | [JavaScript](1000/1047.js) | [PHP](1000/1047.php) | [Python](1000/1047.py)\
-**1048** - Aumento de Salário - [C#](1000/1048.cs) | [Dart](1000/1048.dart) | [JavaScript](1000/1048.js) | [PHP](1000/1048.php) | [Python](1000/1048.py)
+**1048** - Aumento de Salário - [C#](1000/1048.cs) | [Dart](1000/1048.dart) | [JavaScript](1000/1048.js) | [PHP](1000/1048.php) | [Python](1000/1048.py)\
+**1049** - Animal - [C#](1000/1049.cs) | [Dart](1000/1049.dart) | [JavaScript](1000/1049.js) | [PHP](1000/1049.php) | [Python](1000/1049.py)
