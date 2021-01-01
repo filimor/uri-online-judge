@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace uri1050
+namespace uri1051
 {
     internal static class Program
     {
