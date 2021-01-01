@@ -38,4 +38,5 @@
 **1049** - Animal - [C#](1000/1049.cs) | [Dart](1000/1049.dart) | [JavaScript](1000/1049.js) | [PHP](1000/1049.php) | [Python](1000/1049.py)\
 **1050** - DDD - [C#](1000/1050.cs) | [Dart](1000/1050.dart) | [JavaScript](1000/1050.js) | [PHP](1000/1050.php) | [Python](1000/1050.py)\
 **1051** - Imposto de Renda - [C#](1000/1051.cs) | [Dart](1000/1051.dart) | [JavaScript](1000/1051.js) | [PHP](1000/1051.php) | [Python](1000/1051.py)\
-**1052** - Mês - [C#](1000/1052.cs) | [Dart](1000/1052.dart) | [JavaScript](1000/1052.js) | [PHP](1000/1052.php) | [Python](1000/1052.py) | [C# - .NET 5 (**não suportado**)](1000/1052.net5.cs)
+**1052** - Mês - [C#](1000/1052.cs) | [Dart](1000/1052.dart) | [JavaScript](1000/1052.js) | [PHP](1000/1052.php) | [Python](1000/1052.py) | [C# - .NET 5 (**não suportado**)](1000/1052.net5.cs)\
+**1059** - Números Pares - [C#](1000/1059.cs) | [Dart](1000/1059.dart) | [JavaScript](1000/1059.js) | [PHP](1000/1059.php) | [Python](1000/1059.py)
