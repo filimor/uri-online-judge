@@ -11,4 +11,4 @@ $duracao = $minutoFinal > $minutoInicial
 $horas = intdiv($duracao, 60);
 $minutos = $duracao % 60;
 
-echo("O JOGO DUROU {$horas} HORA(S) E {$minutos} MINUTO(S)\n");
+echo "O JOGO DUROU {$horas} HORA(S) E {$minutos} MINUTO(S)\n";

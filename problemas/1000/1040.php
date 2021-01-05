@@ -11,17 +11,17 @@ if ($media == 4.85) {
     $media = 4.8;
 }
 
-echo("Media: " . number_format($media, 1, '.', '') . "\n");
+echo 'Media: ' . number_format($media, 1, '.', '') . "\n";
 
 if ($media >= 7.0) {
-    echo("Aluno aprovado.\n");
+    echo "Aluno aprovado.\n";
 } elseif ($media < 5.0) {
-    echo("Aluno reprovado.\n");
+    echo "Aluno reprovado.\n";
 } else {
-    echo("Aluno em exame.\n");
+    echo "Aluno em exame.\n";
     $exame = readline();
-    echo("Nota do exame: " . number_format($exame, 1, '.', '') . "\n");
+    echo 'Nota do exame: ' . number_format($exame, 1, '.', '') . "\n";
     $media = ($exame + $media) / 2.0;
-    echo($media >= 5.0 ? "Aluno aprovado.\n" : "Aluno reprovado.\n");
-    echo("Media final: " . number_format($media, 1, '.', '') . "\n");
+    echo $media >= 5.0 ? "Aluno aprovado.\n" : "Aluno reprovado.\n";
+    echo 'Media final: ' . number_format($media, 1, '.', '') . "\n";
 }

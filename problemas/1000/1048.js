@@ -10,4 +10,4 @@ const reajuste = salario * indice;
 
 console.log(`Novo salario: ${(salario + reajuste).toFixed(2)}`);
 console.log(`Reajuste ganho: ${reajuste.toFixed(2)}`);
-console.log(`Em percentual: ${(indice * 100). toFixed(0)} %`);
+console.log(`Em percentual: ${Math.floor(indice * 100)} %`);

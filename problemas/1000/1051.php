@@ -17,5 +17,5 @@ foreach($faixas as $valor => $aliquota) {
     }
 }
 
-echo($imposto == 0.0 ? 'Isento' : 'R$ ' . number_format($imposto, 2, '.', ''));
-echo("\n");
+echo $imposto == 0.0 ? 'Isento' : 'R$ ' . number_format($imposto, 2, '.', '');
+echo "\n";

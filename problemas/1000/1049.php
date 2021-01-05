@@ -23,4 +23,4 @@ if ($palavra == 'vertebrado')
     }
 }
 
-echo ("{$animal}\n");
+echo "{$animal}\n";

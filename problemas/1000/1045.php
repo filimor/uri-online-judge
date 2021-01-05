@@ -24,4 +24,4 @@ if ($lados[0] == $lados[1] && $lados[1] == $lados[2]) {
     $saida .= "\nTRIANGULO ISOSCELES";
 }
 
-echo("{$saida}\n");
+echo "{$saida}\n";

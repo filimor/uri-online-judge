@@ -12,5 +12,5 @@ $cidades = array(
 );
 
 $ddd = readline();
-echo(array_key_exists($ddd, $cidades) ? $cidades[$ddd] : 'DDD nao cadastrado');
-echo("\n");
+echo array_key_exists($ddd, $cidades) ? $cidades[$ddd] : 'DDD nao cadastrado';
+echo "\n";

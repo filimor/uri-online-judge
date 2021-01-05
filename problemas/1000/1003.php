@@ -3,4 +3,4 @@
 $a = readline();
 $b = readline();
 $soma = $a + $b;
-echo("SOMA = {$soma}\n");
+echo "SOMA = {$soma}\n";

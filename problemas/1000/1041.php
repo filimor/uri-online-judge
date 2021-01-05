@@ -21,4 +21,4 @@ $quadrante = $x == 0 && $y == 0
                                 $x < 0 && $y < 0
                                     ? "Q3"
                                     : "Q4")))));
-echo($quadrante . "\n");
+echo $quadrante . "\n";

@@ -8,4 +8,4 @@ $minutos = intdiv($n, 60);
 $n %= 60;
 $segundos = $n;
 
-echo("{$horas}:{$minutos}:{$segundos}\n");
+echo "{$horas}:{$minutos}:{$segundos}\n";

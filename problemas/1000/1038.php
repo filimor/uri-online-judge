@@ -13,4 +13,4 @@ $itens = array(
 );
 
 $total = $itens[$codigo] * $quantidade;
-echo("Total: R$ " . number_format($total, 2, '.', '') . "\n");
+echo 'Total: R$ ' . number_format($total, 2, '.', '') . "\n";

@@ -14,6 +14,6 @@ $indice = $salario <= 400.00
 
 $reajuste = $salario * $indice;
 
-echo("Novo salario: " . number_format($salario + $reajuste, 2, '.', '') . "\n");
-echo("Reajuste ganho: " . number_format($reajuste, 2, '.', '') . "\n");
-echo("Em percentual: " . number_format($indice * 100, 0) . " %\n");
+echo 'Novo salario: ' . number_format($salario + $reajuste, 2, '.', '') . "\n";
+echo 'Reajuste ganho: ' . number_format($reajuste, 2, '.', '') . "\n";
+echo 'Em percentual: ' . number_format($indice * 100, 0) . " %\n";

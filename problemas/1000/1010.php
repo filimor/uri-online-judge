@@ -9,4 +9,4 @@ for ($i = 0; $i < 2; $i++) {
     $total += $quantidade * $valor;
 }
 
-echo("VALOR A PAGAR: R$ " . number_format($total, 2, '.', '') . "\n");
+echo 'VALOR A PAGAR: R$ ' . number_format($total, 2, '.', '') . "\n";

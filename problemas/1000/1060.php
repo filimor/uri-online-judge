@@ -8,4 +8,4 @@ for ($i = 0; $i < 6; $i++) {
     }
 }
 
-echo("{$positivos} valores positivos\n");
+echo "{$positivos} valores positivos\n";

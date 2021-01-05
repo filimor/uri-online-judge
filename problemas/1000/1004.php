@@ -3,4 +3,4 @@
 $x = readline();
 $y = readline();
 $prod = $x * $y;
-echo("PROD = {$prod}\n");
+echo "PROD = {$prod}\n";
