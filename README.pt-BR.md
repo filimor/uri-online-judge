@@ -120,7 +120,7 @@ autores
 - [E-mail](mailto:filimor@posteo.net)
 - [LinkedIn](https://www.linkedin.com/in/filimor/)
 - [Twitter](https://www.twitter.com/filimorbr/)
-- [Perfil na URI](https://www.urionlinejudge.com.br/judge/pt/users/statistics/353923)
+- [Perfil na URI](https://www.urionlinejudge.com.br/judge/pt/profile/353923)
 
 ## Licença
 

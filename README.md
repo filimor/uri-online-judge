@@ -118,7 +118,7 @@ If you want to help to translate the project or include other languages you're w
 - [E-mail](mailto:filimor@posteo.net)
 - [LinkedIn](https://www.linkedin.com/in/filimor/)
 - [Twitter](https://www.twitter.com/filimorbr/)
-- [URI Profile](https://www.urionlinejudge.com.br/judge/users/statistics/353923)
+- [URI Profile](https://www.urionlinejudge.com.br/judge/profile/353923)
 
 ## License
 
