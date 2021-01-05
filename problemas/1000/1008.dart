@@ -5,6 +5,6 @@ void main() {
   int horas = int.parse(stdin.readLineSync());
   double valor = double.parse(stdin.readLineSync());
   double salario = horas * valor;
-  stdout.writeln('NUMBER = ${numero}');
+  stdout.writeln('NUMBER = $numero');
   stdout.writeln('SALARY = U\$ ${salario.toStringAsFixed(2)}');
 }

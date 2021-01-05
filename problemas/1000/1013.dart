@@ -7,5 +7,5 @@ void main() {
   int c = int.parse(entrada[2]);
   int d = (a + b + (a - b).abs()) ~/ 2;
   int maior = (c + d + (c - d).abs()) ~/ 2;
-  stdout.writeln('${maior} eh o maior');
+  stdout.writeln('$maior eh o maior');
 }

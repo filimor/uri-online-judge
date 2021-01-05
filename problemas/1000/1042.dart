@@ -10,5 +10,5 @@ void main() {
   numeros.sort();
 
   stdout.writeln('${numeros[0]}\n${numeros[1]}\n${numeros[2]}\n');
-  stdout.writeln('${a}\n${b}\n${c}');
+  stdout.writeln('$a\n$b\n$c');
 }

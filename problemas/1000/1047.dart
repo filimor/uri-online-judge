@@ -12,5 +12,5 @@ void main() {
   int horas = duracao ~/ 60;
   int minutos = duracao % 60;
 
-  stdout.writeln('O JOGO DUROU ${horas} HORA(S) E ${minutos} MINUTO(S)');
+  stdout.writeln('O JOGO DUROU $horas HORA(S) E $minutos MINUTO(S)');
 }

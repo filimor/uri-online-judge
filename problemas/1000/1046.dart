@@ -9,5 +9,5 @@ void main() {
     ? horaFim - horaInicio
     : 24 - horaInicio + horaFim;
 
-  stdout.writeln('O JOGO DUROU ${duracao} HORA(S)');
+  stdout.writeln('O JOGO DUROU $duracao HORA(S)');
 }

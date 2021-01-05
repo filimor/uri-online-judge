@@ -9,5 +9,5 @@ void main() {
   n %= 60;
   int segundos = n;
 
-  stdout.writeln('${horas}:${minutos}:${segundos}');
+  stdout.writeln('$horas:$minutos:$segundos');
 }

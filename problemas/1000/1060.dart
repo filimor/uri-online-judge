@@ -9,5 +9,5 @@ void main() {
     }
   }
 
-  stdout.writeln('${positivos} valores positivos');
+  stdout.writeln('$positivos valores positivos');
 }

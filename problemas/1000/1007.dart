@@ -5,6 +5,5 @@ void main() {
   int b = int.parse(stdin.readLineSync());
   int c = int.parse(stdin.readLineSync());
   int d = int.parse(stdin.readLineSync());
-  int diferenca = a * b - c * d;
-  stdout.writeln('DIFERENCA = ${diferenca}');
+  stdout.writeln('DIFERENCA = ${a * b - c * d}');
 }

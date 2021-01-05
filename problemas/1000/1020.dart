@@ -6,5 +6,5 @@ void main() {
   dias %= 365;
   stdout.writeln('${dias ~/ 30} mes(es)');
   dias %= 30;
-  stdout.writeln('${dias} dia(s)');
+  stdout.writeln('$dias dia(s)');
 }

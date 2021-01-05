@@ -7,7 +7,7 @@ void main() {
 
   stdout.writeln('NOTAS:');
   for (var cedula in cedulas) {
-    stdout.writeln('${valor ~/ cedula} nota(s) de R\$ ${cedula}.00');
+    stdout.writeln('${valor ~/ cedula} nota(s) de R\$ $cedula.00');
     valor %= cedula;
   }
 
