@@ -43,3 +43,4 @@
 **1052** | Mês | [C#](1000/1052.cs) | [Dart](1000/1052.dart) | [JavaScript](1000/1052.js) | [PHP](1000/1052.php) | [Python](1000/1052.py) | [C# .NET 5 (**não suportado**)](1000/1052.net5.cs)
 **1059** | Números Pares | [C#](1000/1059.cs) | [Dart](1000/1059.dart) | [JavaScript](1000/1059.js) | [PHP](1000/1059.php) | [Python](1000/1059.py)
 **1060** | Números Positivos | [C#](1000/1060.cs) | [Dart](1000/1060.dart) | [JavaScript](1000/1060.js) | [PHP](1000/1060.php) | [Python](1000/1060.py)
+**1061** | Tempo de um Evento | [C#](1000/1061.cs) | [Dart](1000/1061.dart) | [JavaScript](1000/1061.js) | [PHP](1000/1061.php) | [Python](1000/1061.py)
