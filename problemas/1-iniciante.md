@@ -1,4 +1,4 @@
-## 1. Iniciante
+# 1. Iniciante
 
 |Número|Nome| | | | | | |
 |-|-|-|-|-|-|-|-|
@@ -44,3 +44,4 @@
 **1059** | [Números Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059) | [C#](1000/1059.cs) | [Dart](1000/1059.dart) | [JavaScript](1000/1059.js) | [PHP](1000/1059.php) | [Python](1000/1059.py)
 **1060** | [Números Positivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060) | [C#](1000/1060.cs) | [Dart](1000/1060.dart) | [JavaScript](1000/1060.js) | [PHP](1000/1060.php) | [Python](1000/1060.py)
 **1061** | [Tempo de um Evento](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) | [C#](1000/1061.cs) | [Dart](1000/1061.dart) | [JavaScript](1000/1061.js) | [PHP](1000/1061.php) | [Python](1000/1061.py)
+**1064** | [Positivos e Média](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) | [C#](1000/1064.cs) | [Dart](1000/1064.dart) | [JavaScript](1000/1064.js) | [PHP](1000/1064.php) | [Python](1000/1064.py)
