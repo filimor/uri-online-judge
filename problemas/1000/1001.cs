@@ -8,8 +8,7 @@ namespace uri1001
         {
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
-            int x = a + b;
-            Console.WriteLine($"X = {x}");
+            Console.WriteLine($"X = {a + b}");
         }
     }
 }

@@ -8,8 +8,7 @@ namespace uri1017
         {
             int tempo = int.Parse(Console.ReadLine());
             int velocidade = int.Parse(Console.ReadLine());
-            double quantidade = tempo * velocidade / 12.0;
-            Console.WriteLine(quantidade.ToString("F3"));
+            Console.WriteLine((tempo * velocidade / 12.0).ToString("F3"));
         }
     }
 }

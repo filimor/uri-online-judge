@@ -6,8 +6,7 @@ namespace uri1016
     {
         private static void Main()
         {
-            int distancia = int.Parse(Console.ReadLine());
-            Console.WriteLine($"{distancia * 2} minutos");
+            Console.WriteLine($"{int.Parse(Console.ReadLine()) * 2} minutos");
         }
     }
 }

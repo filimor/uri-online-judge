@@ -8,8 +8,7 @@ namespace uri1003
         {
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
-            int soma = a + b;
-            Console.WriteLine($"SOMA = {soma}");
+            Console.WriteLine($"SOMA = {a + b}");
         }
     }
 }

@@ -20,8 +20,7 @@ namespace uri1038
                 [5] = 1.50
             };
 
-            double total = itens[codigo] * quantidade;
-            Console.WriteLine($"Total: R$ {total:F2}");
+            Console.WriteLine($"Total: R$ {itens[codigo] * quantidade:F2}");
         }
     }
 }

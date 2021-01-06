@@ -8,8 +8,7 @@ namespace uri1004
         {
             int x = int.Parse(Console.ReadLine());
             int y = int.Parse(Console.ReadLine());
-            int prod = x * y;
-            Console.WriteLine($"PROD = {prod}");
+            Console.WriteLine($"PROD = {x * y}");
         }
     }
 }

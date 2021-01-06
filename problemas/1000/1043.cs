@@ -14,11 +14,11 @@ namespace uri1043
             if (Math.Abs(b - c) < a && Math.Abs(a - c) < b && Math.Abs(a - b) < c &&
                 a < b + c && b < a + c && c < a + b)
             {
-                Console.WriteLine($"Perimetro = {(a + b + c):F1}");
+                Console.WriteLine($"Perimetro = {a + b + c:F1}");
             }
             else
             {
-                Console.WriteLine($"Area = {((a + b) * c / 2.0):F1}");
+                Console.WriteLine($"Area = {(a + b) * c / 2.0:F1}");
             }
         }
     }

@@ -8,8 +8,7 @@ namespace uri1014
         {
             int distancia = int.Parse(Console.ReadLine());
             double combustivel = double.Parse(Console.ReadLine());
-            double consumo = distancia / combustivel;
-            Console.WriteLine($"{consumo:F3} km/l");
+            Console.WriteLine($"{(distancia / combustivel):F3} km/l");
         }
     }
 }
