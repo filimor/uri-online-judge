@@ -46,3 +46,4 @@
 **1061** | [Tempo de um Evento](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061) | [C#](1000/1061.cs) | [Dart](1000/1061.dart) | [JavaScript](1000/1061.js) | [PHP](1000/1061.php) | [Python](1000/1061.py)
 **1064** | [Positivos e Média](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) | [C#](1000/1064.cs) | [Dart](1000/1064.dart) | [JavaScript](1000/1064.js) | [PHP](1000/1064.php) | [Python](1000/1064.py)
 **1065** | [Pares entre Cinco Números](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) | [C#](1000/1065.cs) | [Dart](1000/1065.dart) | [JavaScript](1000/1065.js) | [PHP](1000/1065.php) | [Python](1000/1065.py)
+**1066** | [Pares, Ímpares, Positivos e Negativos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066) | [C#](1000/1066.cs) | [Dart](1000/1066.dart) | | [PHP](1000/1066.php) | [Python](1000/1066.py)
