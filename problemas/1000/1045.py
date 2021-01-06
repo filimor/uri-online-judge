@@ -5,8 +5,8 @@ lados.sort(reverse=True)
 if a >= b + c:
     saida = 'NAO FORMA TRIANGULO'
 else:
-    hipotenusa = pow(a, 2)
-    catetos = pow(b, 2) + pow(c, 2)
+    hipotenusa = a ** 2
+    catetos = b ** 2 + c ** 2
 
     if hipotenusa == catetos:
         saida = 'TRIANGULO RETANGULO'
