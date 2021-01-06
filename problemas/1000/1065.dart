@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  List numeros = new List();
+  final numeros = new List();
 
   for (int i = 0; i < 5; i++) {
     int x = int.parse(stdin.readLineSync());

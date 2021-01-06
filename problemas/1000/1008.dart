@@ -1,10 +1,9 @@
 import 'dart:io';
 
 void main() {
-  int numero = int.parse(stdin.readLineSync());
-  int horas = int.parse(stdin.readLineSync());
-  double valor = double.parse(stdin.readLineSync());
-  double salario = horas * valor;
+  final numero = int.parse(stdin.readLineSync());
+  final horas = int.parse(stdin.readLineSync());
+  final valor = double.parse(stdin.readLineSync());
   stdout.writeln('NUMBER = $numero');
-  stdout.writeln('SALARY = U\$ ${salario.toStringAsFixed(2)}');
+  stdout.writeln('SALARY = U\$ ${(horas * valor).toStringAsFixed(2)}');
 }

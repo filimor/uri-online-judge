@@ -2,8 +2,8 @@ import 'dart:io';
 
 void main() {
   double valor = double.parse(stdin.readLineSync());
-  List cedulas = [100, 50, 20, 10, 5, 2];
-  List moedas = [100, 50, 25, 10, 5, 1];
+  final cedulas = [100, 50, 20, 10, 5, 2];
+  final moedas = [100, 50, 25, 10, 5, 1];
 
   stdout.writeln('NOTAS:');
   for (var cedula in cedulas) {

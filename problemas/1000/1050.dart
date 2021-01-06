@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  var cidades = {
+  final cidades = {
     61: 'Brasilia',
     71: 'Salvador',
     11: 'Sao Paulo',
@@ -12,6 +12,6 @@ void main() {
     31: 'Belo Horizonte'
   };
 
-  int ddd = int.parse(stdin.readLineSync());
+  final ddd = int.parse(stdin.readLineSync());
   stdout.writeln(cidades.containsKey(ddd) ? cidades[ddd] : 'DDD nao cadastrado');
 }

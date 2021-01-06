@@ -1,11 +1,11 @@
 import 'dart:io';
 
 void main() {
-  List entrada = stdin.readLineSync().split(' ');
-  int horaInicio = int.parse(entrada[0]);
-  int horaFim = int.parse(entrada[1]);
+  final entrada = stdin.readLineSync().split(' ');
+  final horaInicio = int.parse(entrada[0]);
+  final horaFim = int.parse(entrada[1]);
 
-  int duracao = horaFim > horaInicio
+  final duracao = horaFim > horaInicio
     ? horaFim - horaInicio
     : 24 - horaInicio + horaFim;
 

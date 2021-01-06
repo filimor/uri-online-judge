@@ -1,9 +1,9 @@
 import 'dart:io';
 
 void main() {
-  List entrada = stdin.readLineSync().split(' ');
-  int codigo = int.parse(entrada[0]);
-  int quantidade = int.parse(entrada[1]);
+  final entrada = stdin.readLineSync().split(' ');
+  final codigo = int.parse(entrada[0]);
+  final quantidade = int.parse(entrada[1]);
 
   var itens = <int, double> {
     1: 4.00,
@@ -13,6 +13,5 @@ void main() {
     5: 1.50
   };
 
-  double total = itens[codigo] * quantidade;
-  stdout.writeln('Total: R\$ ${total.toStringAsFixed(2)}');
+  stdout.writeln('Total: R\$ ${(itens[codigo] * quantidade).toStringAsFixed(2)}');
 }

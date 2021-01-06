@@ -4,7 +4,7 @@ void main() {
   double salario = double.parse(stdin.readLineSync());
   double imposto = 0.0;
 
-  var faixas = {
+  final faixas = {
     4500.00: 0.28,
     3000.00: 0.18,
     2000.00: 0.08

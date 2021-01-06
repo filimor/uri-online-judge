@@ -1,11 +1,11 @@
 import 'dart:io';
 
 void main() {
-  List entrada = stdin.readLineSync().split(' ');
-  double n1 = double.parse(entrada[0]);
-  double n2 = double.parse(entrada[1]);
-  double n3 = double.parse(entrada[2]);
-  double n4 = double.parse(entrada[3]);
+  final entrada = stdin.readLineSync().split(' ');
+  final n1 = double.parse(entrada[0]);
+  final n2 = double.parse(entrada[1]);
+  final n3 = double.parse(entrada[2]);
+  final n4 = double.parse(entrada[3]);
   double media = (n1 * 2 + n2 * 3 + n3 * 4 + n4) / 10;
 
   stdout.writeln('Media: ${media.toStringAsFixed(1)}');

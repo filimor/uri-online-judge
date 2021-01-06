@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  List numeros = new List();
+  final numeros = new List();
 
   for (int i = 0; i < 6; i++) {
     double x = double.parse(stdin.readLineSync());
@@ -11,6 +11,6 @@ void main() {
   }
 
   stdout.writeln('${numeros.length} valores positivos');
-  double media = numeros.reduce((a, b) => a + b) / numeros.length;
+  final media = numeros.reduce((a, b) => a + b) / numeros.length;
   stdout.writeln(media.toStringAsFixed(1));
 }

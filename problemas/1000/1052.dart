@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  var meses = {
+  final meses = {
     1: 'January',
     2: 'February',
     3: 'March',
@@ -16,6 +16,6 @@ void main() {
     12: 'December'
   };
 
-  int mes = int.parse(stdin.readLineSync());
+  final mes = int.parse(stdin.readLineSync());
   stdout.writeln(meses[mes]);
 }

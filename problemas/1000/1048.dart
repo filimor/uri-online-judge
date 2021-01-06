@@ -1,9 +1,9 @@
 import 'dart:io';
 
 void main() {
-  double salario = double.parse(stdin.readLineSync());
+  final salario = double.parse(stdin.readLineSync());
 
-  double indice = salario <= 400.00
+  final indice = salario <= 400.00
     ? 0.15
     : salario <= 800.00
       ? 0.12
@@ -13,7 +13,7 @@ void main() {
           ? 0.07
           : 0.04;
 
-  double reajuste = salario * indice;
+  final reajuste = salario * indice;
 
   stdout.writeln('Novo salario: ${(salario + reajuste).toStringAsFixed(2)}');
   stdout.writeln('Reajuste ganho: ${reajuste.toStringAsFixed(2)}');

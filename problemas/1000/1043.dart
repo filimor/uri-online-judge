@@ -1,10 +1,10 @@
 import 'dart:io';
 
 void main() {
-  List entrada = stdin.readLineSync().split(' ');
-  double a = double.parse(entrada[0]);
-  double b = double.parse(entrada[1]);
-  double c = double.parse(entrada[2]);
+  final entrada = stdin.readLineSync().split(' ');
+  final a = double.parse(entrada[0]);
+  final b = double.parse(entrada[1]);
+  final c = double.parse(entrada[2]);
 
   if ((b - c).abs() < a && (a - c).abs() < b && (a - b).abs() < c &&
     a < b + c && b < a + c && c < a + b) {

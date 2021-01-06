@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  List cedulas = [100, 50, 20, 10, 5, 2, 1];
+  final cedulas = [100, 50, 20, 10, 5, 2, 1];
   int valor = int.parse(stdin.readLineSync());
   stdout.writeln(valor);
 

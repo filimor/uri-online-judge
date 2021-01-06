@@ -1,8 +1,7 @@
 import 'dart:io';
 
 void main() {
-  int tempo = int.parse(stdin.readLineSync());
-  int velocidade = int.parse(stdin.readLineSync());
-  double quantidade = tempo * velocidade / 12;
-  stdout.writeln(quantidade.toStringAsFixed(3));
+  final tempo = int.parse(stdin.readLineSync());
+  final velocidade = int.parse(stdin.readLineSync());
+  stdout.writeln((tempo * velocidade / 12).toStringAsFixed(3));
 }

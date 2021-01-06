@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:math';
 
 void main() {
-  List lados = stdin.readLineSync()
+  final lados = stdin.readLineSync()
     .split(' ')
     .map((x) => double.parse(x))
     .toList()
