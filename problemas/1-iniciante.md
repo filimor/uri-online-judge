@@ -47,3 +47,4 @@
 **1064** | [Positivos e Média](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064) | [C#](1000/1064.cs) | [Dart](1000/1064.dart) | [JavaScript](1000/1064.js) | [PHP](1000/1064.php) | [Python](1000/1064.py)
 **1065** | [Pares entre Cinco Números](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065) | [C#](1000/1065.cs) | [Dart](1000/1065.dart) | [JavaScript](1000/1065.js) | [PHP](1000/1065.php) | [Python](1000/1065.py)
 **1066** | [Pares, Ímpares, Positivos e Negativos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066) | [C#](1000/1066.cs) | [Dart](1000/1066.dart) | | [PHP](1000/1066.php) | [Python](1000/1066.py)
+**1067** | [Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) | [C#](1000/1067.cs) | [Dart](1000/1067.dart) | [JavaScript](1000/1067.js) | [PHP](1000/1067.php) | [Python](1000/1067.py)
