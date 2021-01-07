@@ -50,3 +50,4 @@
 **1067** | [Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) | [C#](1000/1067.cs) | [Dart](1000/1067.dart) | [JavaScript](1000/1067.js) | [PHP](1000/1067.php) | [Python](1000/1067.py)
 **1070** | [Seis Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070) | [C#](1000/1070.cs) | [Dart](1000/1070.dart) | [JavaScript](1000/1070.js) | [PHP](1000/1070.php) | [Python](1000/1070.py)
 **1071** | [Soma de Impares Consecutivos I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071) | [C#](1000/1071.cs) | [Dart](1000/1071.dart) | [JavaScript](1000/1071.js) | [PHP](1000/1071.php) | [Python](1000/1071.py)
+**1072** | [Intervalo 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072) | [C#](1000/1072.cs) | [Dart](1000/1072.dart) | [JavaScript](1000/1072.js) | [PHP](1000/1072.php) | [Python](1000/1072.py)

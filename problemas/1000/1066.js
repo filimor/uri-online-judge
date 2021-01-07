@@ -1,6 +1,7 @@
 const numeros = require('fs')
   .readFileSync('/dev/stdin', 'utf-8')
-  .split('\n');
+  .split('\n')
+  .map(x => parseInt(x));
 
 console.log(`${numeros.filter(x => x % 2 == 0).length} valor(es) par(es)`);
 console.log(`${numeros.filter(x => x % 2 != 0).length} valor(es) impar(es)`);
