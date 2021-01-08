@@ -54,3 +54,4 @@
 **1073** | [Quadrado de Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073) | [C#](1000/1073.cs) | [Dart](1000/1073.dart) | [JavaScript](1000/1073.js) | [PHP](1000/1073.php) | [Python](1000/1073.py)
 **1074** | [Par ou Ímpar](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074) | [C#](1000/1074.cs) | [Dart](1000/1074.dart) | [JavaScript](1000/1074.js) | [PHP](1000/1074.php) | [Python](1000/1074.py)
 **1075** | [Resto 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1075) | [C#](1000/1075.cs) | [Dart](1000/1075.dart) | [JavaScript](1000/1075.js) | [PHP](1000/1075.php) | [Python](1000/1075.py)
+**1078** | [Tabuada]](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078) | [C#](1000/1078.cs) | [Dart](1000/1078.dart) | [JavaScript](1000/1078.js) | [PHP](1000/1078.php) | [Python](1000/1078.py)
