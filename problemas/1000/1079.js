@@ -1,7 +1,4 @@
-const entrada = require('fs')
-  .readFileSync('/dev/stdin', 'utf-8')
-  .split('\n');
-
+const entrada = require('fs').readFileSync('/dev/stdin', 'utf-8').split('\n');
 const n = entrada.shift();
 
 for (let i = 0; i < n; i++) {
