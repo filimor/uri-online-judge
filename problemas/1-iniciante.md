@@ -57,3 +57,4 @@
 **1078** | [Tabuada](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078) | [C#](1000/1078.cs) | [Dart](1000/1078.dart) | [JavaScript](1000/1078.js) | [PHP](1000/1078.php) | [Python](1000/1078.py)
 **1079** | [Médias Ponderadas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1079) | [C#](1000/1079.cs) | [Dart](1000/1079.dart) | [JavaScript](1000/1079.js) | [PHP](1000/1079.php) | [Python](1000/1079.py)
 **1080** | [Maior e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) | [C#](1000/1080.cs) | [Dart](1000/1080.dart) | | [PHP](1000/1080.php) | [Python](1000/1080.py)
+**1094** | [Experiências](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) | [C#](1000/1094.cs) | [Dart](1000/1094.dart) | | [PHP](1000/1094.php) | [Python](1000/1094.py)
