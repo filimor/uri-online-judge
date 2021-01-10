@@ -59,3 +59,4 @@
 **1080** | [Maior e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080) | [C#](1000/1080.cs) | [Dart](1000/1080.dart) | | [PHP](1000/1080.php) | [Python](1000/1080.py)
 **1094** | [Experiências](https://www.urionlinejudge.com.br/judge/pt/problems/view/1094) | [C#](1000/1094.cs) | [Dart](1000/1094.dart) | | [PHP](1000/1094.php) | [Python](1000/1094.py)
 **1095** | [Sequencia IJ 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095) | [C#](1000/1095.cs) | [Dart](1000/1095.dart) | [JavaScript](1000/1095.js) | [PHP](1000/1095.php) | [Python](1000/1095.py)
+**1096** | [Sequencia IJ 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) | [C#](1000/1096.cs) | [Dart](1000/1096.dart) | [JavaScript](1000/1096.js) | [PHP](1000/1096.php) | [Python](1000/1096.py)
