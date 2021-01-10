@@ -17,7 +17,7 @@ void main() {
   final total = cobaias.values.reduce((x, y) => x + y);
   final divisor = total / 100;
 
-  stdout.writeln('Total: ${total} cobaias');
+  stdout.writeln('Total: $total cobaias');
   stdout.writeln('Total de coelhos: ${cobaias['C']}');
   stdout.writeln('Total de ratos: ${cobaias['R']}');
   stdout.writeln('Total de sapos: ${cobaias['S']}');
