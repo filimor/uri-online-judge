@@ -10,5 +10,5 @@ for i in range(n):
     else:
         fora += 1
 
-print('{} in'.format(dentro))
-print('{} out'.format(fora))
+print(f'{dentro} in')
+print(f'{fora} out')

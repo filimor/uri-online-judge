@@ -13,4 +13,4 @@ for (valor, aliquota) in faixas:
         imposto += diferenca * aliquota
         salario -= diferenca
 
-print('Isento' if imposto == 0.0 else 'R$ {:.2f}'.format(imposto))
+print(f'Isento' if imposto == 0.0 else 'R$ {imposto:.2f}')

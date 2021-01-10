@@ -5,4 +5,4 @@ for i in range(5):
     if x % 2 == 0:
         numeros.append(x)
 
-print('{} valores pares'.format(len(numeros)))
+print(f'{len(numeros)} valores pares')

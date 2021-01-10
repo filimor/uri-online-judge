@@ -6,4 +6,4 @@ minutos = n // 60
 n %= 60
 segundos = n
 
-print('{}:{}:{}'.format(horas, minutos, segundos))
+print(f'{horas}:{minutos}:{segundos}')

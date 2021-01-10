@@ -1,2 +1,1 @@
-distancia = int(input())
-print('{} minutos'.format(distancia * 2))
+print(f'{int(input()) * 2} minutos')

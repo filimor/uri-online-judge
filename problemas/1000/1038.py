@@ -8,5 +8,4 @@ itens = {
     5: 1.50
 }
 
-total = itens[codigo] * quantidade
-print('Total: R$ {:.2f}'.format(total))
+print(f'Total: R$ {itens[codigo] * quantidade:.2f}')

@@ -1,6 +1,6 @@
 (a, b, c) = map(float, input().split(' '))
 
 if abs(b - c) < a < (b + c) and abs(a - c) < b < (a + c) and abs(a - b) < c < (a + b):
-    print('Perimetro = {:.1f}'.format(a + b + c))
+    print(f'Perimetro = {a + b + c:.1f}')
 else:
-    print('Area = {:.1f}'.format((a + b) * c / 2))
+    print(f'Area = {(a + b) * c / 2:.1f}')

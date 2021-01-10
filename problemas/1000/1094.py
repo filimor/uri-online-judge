@@ -15,10 +15,10 @@ for i in range(n):
 total = reduce(lambda x, y: x + y, cobaias.values())
 divisor = total / 100
 
-print('Total: {} cobaias'.format(total))
-print('Total de coelhos: {}'.format(cobaias['C']))
-print('Total de ratos: {}'.format(cobaias['R']))
-print('Total de sapos: {}'.format(cobaias['S']))
-print('Percentual de coelhos: {:.2f} %'.format(cobaias['C'] / divisor))
-print('Percentual de ratos: {:.2f} %'.format(cobaias['R'] / divisor))
-print('Percentual de sapos: {:.2f} %'.format(cobaias['S'] / divisor))
+print(f'Total: {total} cobaias')
+print(f'Total de coelhos: {cobaias["C"]}')
+print(f'Total de ratos: {cobaias["R"]}')
+print(f'Total de sapos: {cobaias["S"]}')
+print(f'Percentual de coelhos: {cobaias["C"] / divisor:.2f} %')
+print(f'Percentual de ratos: {cobaias["R"] / divisor:.2f} %')
+print(f'Percentual de sapos: {cobaias["S"] / divisor:.2f} %')

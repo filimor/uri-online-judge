@@ -8,4 +8,4 @@ duracao = minutoFinal - minutoInicial if minutoFinal > minutoInicial\
 horas = duracao // 60
 minutos = duracao % 60
 
-print('O JOGO DUROU {} HORA(S) E {} MINUTO(S)'.format(horas, minutos))
+print(f'O JOGO DUROU {horas} HORA(S) E {minutos} MINUTO(S)')

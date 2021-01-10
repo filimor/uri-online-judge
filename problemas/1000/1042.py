@@ -3,5 +3,5 @@
 numeros = [a, b, c]
 numeros.sort()
 
-print('{}\n{}\n{}\n'.format(numeros[0], numeros[1], numeros[2]))
-print('{}\n{}\n{}'.format(a, b, c))
+print(f'{numeros[0]}\n{numeros[1]}\n{numeros[2]}\n')
+print(f'{a}\n{b}\n{c}')

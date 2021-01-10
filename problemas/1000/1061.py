@@ -10,9 +10,9 @@ dataInicio = datetime.datetime(ano, 4, diaInicio, hInicio, mInicio, sInicio)
 dataFim = datetime.datetime(ano, 4, diaFim, hFim, mFim, sFim)
 duracao = dataFim - dataInicio
 
-print('{} dia(s)'.format(duracao.days))
-print('{} hora(s)'.format(duracao.seconds // 3600))
+print(f'{duracao.days} dia(s)')
+print(f'{duracao.seconds // 3600} hora(s)')
 duracao = duracao.seconds % 3600
-print('{} minuto(s)'.format(duracao // 60))
+print(f'{duracao // 60} minuto(s)')
 duracao %= 60
-print('{} segundo(s)'.format(duracao))
+print(f'{duracao} segundo(s)')

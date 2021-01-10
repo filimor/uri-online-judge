@@ -8,6 +8,6 @@ indice = 0.15 if salario <= 400.00 else\
 
 reajuste = salario * indice
 
-print('Novo salario: {:.2f}'.format(salario + reajuste))
-print('Reajuste ganho: {:.2f}'.format(reajuste))
-print('Em percentual: {:.0f} %'.format(indice * 100))
+print(f'Novo salario: {salario + reajuste:.2f}')
+print(f'Reajuste ganho: {reajuste:.2f}')
+print(f'Em percentual: {indice * 100:.0f} %')

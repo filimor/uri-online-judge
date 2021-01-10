@@ -6,4 +6,4 @@ for i in range(2):
     valor = float(entrada[2])
     total += quantidade * valor
 
-print('VALOR A PAGAR: R$ {:.2f}'.format(total))
+print(f'VALOR A PAGAR: R$ {total:.2f}')

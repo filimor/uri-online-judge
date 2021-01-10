@@ -7,5 +7,5 @@ for i in range(6):
     if x > 0:
         numeros.append(x)
 
-print('{} valores positivos'.format(len(numeros)))
+print(f'{len(numeros)} valores positivos')
 print(round(mean(numeros), 1))

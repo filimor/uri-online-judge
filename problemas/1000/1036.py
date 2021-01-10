@@ -8,5 +8,5 @@ if delta < 0 or a == 0:
 else:
     r1 = (-b + math.sqrt(delta)) / 2 * a
     r2 = (-b - math.sqrt(delta)) / 2 * a
-    print('R1 = {:.5f}'.format(r1))
-    print('R2 = {:.5f}'.format(r2))
+    print(f'R1 = {r1:.5f}')
+    print(f'R2 = {r2:.5f}')
