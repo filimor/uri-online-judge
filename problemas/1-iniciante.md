@@ -62,3 +62,4 @@
 **1096** | [Sequencia IJ 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1096) | [C#](1000/1096.cs) | [Dart](1000/1096.dart) | [JavaScript](1000/1096.js) | [PHP](1000/1096.php) | [Python](1000/1096.py)
 **1098** | [Sequencia IJ 4](https://www.urionlinejudge.com.br/judge/pt/problems/view/1098) | [C#](1000/1098.cs) | [Dart](1000/1098.dart) | [JavaScript](1000/1098.js) | [PHP](1000/1098.php) | [Python](1000/1098.py)
 **1099** | [Soma de Ímpares Consecutivos II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099) | [C#](1000/1099.cs) | [Dart](1000/1099.dart) | | [PHP](1000/1099.php) | [Python](1000/1099.py)
+**1101** | [Sequência de Números e Soma](https://www.urionlinejudge.com.br/judge/pt/problems/view/1101) | [C#](1000/1101.cs) | [Dart](1000/1101.dart) | [JavaScript](1000/1101.js) | [PHP](1000/1101.php) | [Python](1000/1101.py)
