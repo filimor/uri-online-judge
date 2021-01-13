@@ -1,8 +1,6 @@
 <?php
 
-$entrada = explode(' ', readline());
-$horaInicio = $entrada[0];
-$horaFim = $entrada[1];
+[$horaInicio, $horaFim] = explode(' ', readline());
 
 $duracao = $horaFim > $horaInicio
     ? $horaFim - $horaInicio

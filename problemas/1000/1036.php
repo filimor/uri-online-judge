@@ -1,9 +1,6 @@
 <?php
 
-$entrada = explode(' ', readline());
-$a = $entrada[0];
-$b = $entrada[1];
-$c = $entrada[2];
+[$a, $b, $c] = explode(' ', readline());
 $delta = $b * $b - 4.0 * $a * $c;
 
 if ($delta < 0 || $a == 0) {

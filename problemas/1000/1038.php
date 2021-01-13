@@ -1,8 +1,6 @@
 <?php
 
-$entrada = explode(' ', readline());
-$codigo = $entrada[0];
-$quantidade = $entrada[1];
+[$codigo, $quantidade] = explode(' ', readline());
 
 $itens = array(
     1 => 4.00,

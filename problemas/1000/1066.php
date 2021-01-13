@@ -1,6 +1,6 @@
 <?php
 
-$numeros = array();
+//$numeros = array();
 
 for ($i = 0; $i < 5; $i++) {
     array_push($numeros, readline());

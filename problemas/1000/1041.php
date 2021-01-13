@@ -1,8 +1,7 @@
 <?php
 
-$entrada = explode(' ', readline());
-$x = $entrada[0];
-$y = $entrada[1];
+[$x, $y] = explode(' ', readline());
+
 $quadrante = $x == 0 && $y == 0
             ? "Origem"
             : (

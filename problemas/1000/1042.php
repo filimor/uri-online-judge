@@ -1,9 +1,6 @@
 <?php
 
-$entrada = explode(' ', readline());
-$a = $entrada[0];
-$b = $entrada[1];
-$c = $entrada[2];
+[$a, $b, $c] = explode(' ', readline());
 
 $numeros = array($a, $b, $c);
 sort($numeros);

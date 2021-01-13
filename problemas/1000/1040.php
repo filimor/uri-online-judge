@@ -1,10 +1,6 @@
 <?php
 
-$entrada = explode(' ', readline());
-$n1 = $entrada[0];
-$n2 = $entrada[1];
-$n3 = $entrada[2];
-$n4 = $entrada[3];
+[$n1, $n2, $n3, $n4] = explode(' ', readline());
 $media = ($n1 * 2.0 + $n2 * 3.0 + $n3 * 4.0 + $n4) / 10.0;
 
 if ($media == 4.85) {

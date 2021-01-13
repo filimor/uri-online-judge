@@ -3,9 +3,7 @@
 $total = 0.0;
 
 for ($i = 0; $i < 2; $i++) {
-    $entrada = explode(' ', readline());
-    $quantidade = $entrada[1];
-    $valor = $entrada[2];
+    [, $quantidade, $valor] = explode(' ', readline());
     $total += $quantidade * $valor;
 }
 
