@@ -67,3 +67,4 @@
 **1114** | [Senha Fixa](https://www.urionlinejudge.com.br/judge/pt/problems/view/1114) | [C#](1100/1114.cs) | [Dart](1100/1114.dart) | [JavaScript](1100/1114.js) | [PHP](1100/1114.php) | [Python](1100/1114.py)
 **1115** | [Quadrante](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115) | [C#](1100/1115.cs) | [Dart](1100/1115.dart) | [JavaScript](1100/1115.js) | [PHP](1100/1115.php) | [Python](1100/1115.py) | [C# .NET 5 (**não suportado**)](1100/1115.net5.cs)
 **1116** | [Dividindo X por Y](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) | [C#](1100/1116.cs) | [Dart](1100/1116.dart) | [JavaScript](1100/1116.js) | [PHP](1100/1116.php) | [Python](1100/1116.py)
+**1117** | [Validação de Nota](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) | [C#](1100/1117.cs) | [Dart](1100/1117.dart) | [JavaScript](1100/1117.js) | [PHP](1100/1117.php) | [Python](1100/1117.py)
