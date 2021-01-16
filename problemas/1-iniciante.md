@@ -69,3 +69,4 @@
 **1116** | [Dividindo X por Y](https://www.urionlinejudge.com.br/judge/pt/problems/view/1116) | [C#](1100/1116.cs) | [Dart](1100/1116.dart) | [JavaScript](1100/1116.js) | [PHP](1100/1116.php) | [Python](1100/1116.py)
 **1117** | [Validação de Nota](https://www.urionlinejudge.com.br/judge/pt/problems/view/1117) | [C#](1100/1117.cs) | [Dart](1100/1117.dart) | [JavaScript](1100/1117.js) | [PHP](1100/1117.php) | [Python](1100/1117.py)
 **1118** | [Várias Notas Com Validação](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) | [C#](1100/1118.cs) | [Dart](1100/1118.dart) | [JavaScript](1100/1118.js) | [PHP](1100/1118.php) | [Python](1100/1118.py)
+**1131** | [Grenais](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) | [C#](1100/1131.cs) | [Dart](1100/1131.dart) | [JavaScript](1100/1131.js) | [PHP](1100/1131.php) | [Python](1100/1131.py)
