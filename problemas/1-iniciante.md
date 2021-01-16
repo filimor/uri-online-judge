@@ -71,3 +71,4 @@
 **1118** | [Várias Notas Com Validação](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118) | [C#](1100/1118.cs) | [Dart](1100/1118.dart) | [JavaScript](1100/1118.js) | [PHP](1100/1118.php) | [Python](1100/1118.py)
 **1131** | [Grenais](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131) | [C#](1100/1131.cs) | [Dart](1100/1131.dart) | [JavaScript](1100/1131.js) | [PHP](1100/1131.php) | [Python](1100/1131.py)
 **1132** | [Múltiplos de 13](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132) | [C#](1100/1132.cs) | [Dart](1100/1132.dart) | [JavaScript](1100/1132.js) | [PHP](1100/1132.php) | [Python](1100/1132.py)
+**1133** | [Resto da Divisão](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) | [C#](1100/1133.cs) | [Dart](1100/1133.dart) | [JavaScript](1100/1133.js) | [PHP](1100/1133.php) | [Python](1100/1133.py)

@@ -1,6 +1,6 @@
 using System;
 
-namespace uri1132
+namespace uri1133
 {
     internal static class Program
     {
@@ -10,17 +10,14 @@ namespace uri1132
             int y = int.Parse(Console.ReadLine());
             int menor = Math.Min(x, y);
             int maior = Math.Max(x, y);
-            int soma = 0;
 
-            for (int i = menor; i <= maior; i++)
+            for (int i = menor + 1; i < maior; i++)
             {
-                if (i % 13 != 0)
+                if (i % 5 == 2 || i % 5 == 3)
                 {
-                    soma += i;
+                    Console.WriteLine(i);
                 }
             }
-
-            Console.WriteLine(soma);
         }
     }
 }
