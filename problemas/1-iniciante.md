@@ -73,3 +73,4 @@
 **1132** | [Múltiplos de 13](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132) | [C#](1100/1132.cs) | [Dart](1100/1132.dart) | [JavaScript](1100/1132.js) | [PHP](1100/1132.php) | [Python](1100/1132.py)
 **1133** | [Resto da Divisão](https://www.urionlinejudge.com.br/judge/pt/problems/view/1133) | [C#](1100/1133.cs) | [Dart](1100/1133.dart) | [JavaScript](1100/1133.js) | [PHP](1100/1133.php) | [Python](1100/1133.py)
 **1134** | [Tipo de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134) | [C#](1100/1134.cs) | [Dart](1100/1134.dart) | [JavaScript](1100/1134.js) | [PHP](1100/1134.php) | [Python](1100/1134.py)
+**1142** | [PUM](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) | [C#](1100/1142.cs) | [Dart](1100/1142.dart) | [JavaScript](1100/1142.js) | [PHP](1100/1142.php) | [Python](1100/1142.py)
