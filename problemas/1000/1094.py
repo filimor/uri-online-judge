@@ -1,14 +1,12 @@
 from functools import reduce
 
-n = int(input())
-
 cobaias = {
     'C': 0,
     'R': 0,
     'S': 0
 }
 
-for i in range(n):
+for i in range(int(input())):
     linha = input().split(' ')
     cobaias[linha[1]] += int(linha[0])
 

@@ -1,8 +1,7 @@
-n = int(input())
 dentro = 0
 fora = 0
 
-for i in range(n):
+for i in range(int(input())):
     x = int(input())
 
     if 10 <= x <= 20:
