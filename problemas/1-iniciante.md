@@ -76,4 +76,5 @@
 **1142** | [PUM](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142) | [C#](1100/1142.cs) | [Dart](1100/1142.dart) | [JavaScript](1100/1142.js) | [PHP](1100/1142.php) | [Python](1100/1142.py)
 **1143** | [Quadrado e ao Cubo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143) | [C#](1100/1143.cs) | [Dart](1100/1143.dart) | [JavaScript](1100/1143.js) | [PHP](1100/1143.php) | [Python](1100/1143.py)
 **1144** | [Sequência Lógica](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144) | [C#](1100/1144.cs) | [Dart](1100/1144.dart) | [JavaScript](1100/1144.js) | [PHP](1100/1144.php) | [Python](1100/1144.py)
-**11145** | [Sequência Lógica 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/11145) | [C#](1100/11145.cs) | [Dart](1100/11145.dart) | [JavaScript](1100/11145.js) | [PHP](1100/11145.php) | [Python](1100/11145.py)
+**1145** | [Sequência Lógica 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/11145) | [C#](1100/11145.cs) | [Dart](1100/11145.dart) | [JavaScript](1100/11145.js) | [PHP](1100/11145.php) | [Python](1100/11145.py)
+**1146** | [Sequências Crescentes](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146) | [C#](1100/1146.cs) | [Dart](1100/1146.dart) | [JavaScript](1100/1146.js) | [PHP](1100/1146.php) | [Python](1100/1146.py)
