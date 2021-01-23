@@ -78,3 +78,4 @@
 **1144** | [Sequência Lógica](https://www.urionlinejudge.com.br/judge/pt/problems/view/1144) | [C#](1100/1144.cs) | [Dart](1100/1144.dart) | [JavaScript](1100/1144.js) | [PHP](1100/1144.php) | [Python](1100/1144.py)
 **1145** | [Sequência Lógica 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/11145) | [C#](1100/11145.cs) | [Dart](1100/11145.dart) | [JavaScript](1100/11145.js) | [PHP](1100/11145.php) | [Python](1100/11145.py)
 **1146** | [Sequências Crescentes](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146) | [C#](1100/1146.cs) | [Dart](1100/1146.dart) | [JavaScript](1100/1146.js) | [PHP](1100/1146.php) | [Python](1100/1146.py)
+**1149** | [Somando Inteiros Consecutivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1149) | [C#](1100/1149.cs) | [Dart](1100/1149.dart) | [JavaScript](1100/1149.js) | [PHP](1100/1149.php) | [Python](1100/1149.py) | [C# .NET 5 (**não suportado**)](1100/1149.net5.cs)
