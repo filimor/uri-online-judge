@@ -1,9 +1,9 @@
 const entrada = require('fs').readFileSync('/dev/stdin', 'utf8').split('\n');
 
 while (true) {
-  [x, y] = entrada.shift().split(' ').map(x => parseInt(x));
+  [x, y] = entrada.shift().split(' ').map(x => Number(x));
 
-  if (x == y) {
+  if (x === y) {
     break;
   }
 

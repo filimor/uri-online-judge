@@ -7,7 +7,7 @@ const faixas = new Map([
   [2000.00, 0.08]
 ]);
 
-for(const [valor, aliquota] of faixas) {
+for(let [valor, aliquota] of faixas) {
   if (salario > valor) {
       diferenca = salario - valor;
       imposto += diferenca * aliquota;
@@ -15,4 +15,4 @@ for(const [valor, aliquota] of faixas) {
   }
 }
 
-console.log(imposto == 0.0 ? 'Isento' : `R$ ${imposto.toFixed(2)}`);
+console.log(imposto === 0.0 ? 'Isento' : `R$ ${imposto.toFixed(2)}`);

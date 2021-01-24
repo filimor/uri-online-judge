@@ -3,7 +3,7 @@ const [menor, maior] = [Math.min(x, y), Math.max(x, y)];
 let soma = 0;
 
 for (let i = menor; i <= maior; i++) {
-  if (i % 13 != 0) {
+  if (i % 13 !== 0) {
     soma += i;
   }
 }

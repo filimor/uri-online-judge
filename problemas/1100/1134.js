@@ -10,15 +10,15 @@ const combustiveis = {
   4: 'Fim'
 };
 
-const endKey = Object.keys(combustiveis).find(key => combustiveis[key] == 'Fim');
+const endKey = Object.keys(combustiveis).find(key => combustiveis[key] === 'Fim');
 const abastecidos = {};
 let tipo;
 
-for (const key in combustiveis) {
+for (let key in combustiveis) {
     abastecidos[key] = 0;
 }
 
-while ((tipo = entrada.shift()) != endKey) {
+while ((tipo = entrada.shift()) !== endKey) {
   if (abastecidos.hasOwnProperty(tipo)) {
     abastecidos[tipo] = (abastecidos[tipo] + 1);
   }
@@ -26,6 +26,6 @@ while ((tipo = entrada.shift()) != endKey) {
 
 delete abastecidos[endKey];
 console.log('MUITO OBRIGADO');
-for (const key in abastecidos) {
+for (let key in abastecidos) {
   console.log(`${combustiveis[key]}: ${abastecidos[key]}`);
 }

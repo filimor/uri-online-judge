@@ -16,7 +16,7 @@ do {
   }
 
   console.log('Novo grenal (1-sim 2-nao)');
-} while (entrada.shift() != 2);
+} while (entrada.shift() !== '2');
 
 console.log(`${totalGremio + totalInter + empates} grenais`);
     console.log(`Inter:${totalInter}`);

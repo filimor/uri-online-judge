@@ -21,11 +21,11 @@ while (true) {
     console.log('novo calculo (1-sim 2-nao)');
     const opcao = entrada.shift();
 
-    if (opcao == 1) {
+    if (opcao === '1') {
       break;
     }
 
-    if (opcao == 2) {
+    if (opcao === '2') {
       return;
     }
   }

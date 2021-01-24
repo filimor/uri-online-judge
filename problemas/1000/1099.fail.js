@@ -7,7 +7,7 @@ entrada.map(x => x.split(' ')).forEach(y => {
   let soma = 0;
 
   for (let i = menor + 1; i < maior; i++) {
-    if (i % 2 != 0) {
+    if (i % 2 !== 0) {
       soma += i;
     }
   }

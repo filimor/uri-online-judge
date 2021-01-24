@@ -8,7 +8,7 @@ if (a >= b + c) {
   const hipotenusa = Math.pow(a, 2);
   const catetos = Math.pow(b, 2) + Math.pow(c, 2);
 
-  if (hipotenusa == catetos) {
+  if (hipotenusa === catetos) {
     saida = 'TRIANGULO RETANGULO';
   } else if (hipotenusa > catetos) {
     saida = 'TRIANGULO OBTUSANGULO';
@@ -16,9 +16,9 @@ if (a >= b + c) {
     saida = 'TRIANGULO ACUTANGULO';
   }
 
-  if (a == b && b == c) {
+  if (a === b && b === c) {
     saida += '\nTRIANGULO EQUILATERO';
-  } else if (a == b || a == c || b == c) {
+  } else if (a === b || a === c || b === c) {
     saida += '\nTRIANGULO ISOSCELES';
   }
 }

@@ -1,7 +1,7 @@
 const numeros = require('fs')
   .readFileSync('/dev/stdin', 'utf-8')
   .split('\n')
-  .map(x => parseInt(x));
+  .map(x => Number(x));
 
 let pares = 0;
 let impares = 0;
@@ -9,7 +9,7 @@ let positivos = 0;
 let negativos = 0;
 
 for (let numero of numeros) {
-  if (numero % 2 == 0) {
+  if (numero % 2 === 0) {
     pares++;
   } else {
     impares++;

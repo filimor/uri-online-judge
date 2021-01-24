@@ -1,6 +1,6 @@
-let x = parseInt(require('fs').readFileSync('/dev/stdin', 'utf-8'));
+let x = Number(require('fs').readFileSync('/dev/stdin', 'utf-8'));
 
-if (x % 2 == 0) {
+if (x % 2 === 0) {
   x++;
 }
 
