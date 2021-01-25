@@ -81,3 +81,4 @@
 **1149** | [Somando Inteiros Consecutivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1149) | [C#](1100/1149.cs) | [Dart](1100/1149.dart) | [JavaScript](1100/1149.js) | [PHP](1100/1149.php) | [Python](1100/1149.py) | [C# .NET 5 (**não suportado**)](1100/1149.net5.cs)
 **1150** | [Ultrapassando Z](https://www.urionlinejudge.com.br/judge/pt/problems/view/1150) | [C#](1100/1150.cs) | [Dart](1100/1150.dart) | [JavaScript](1100/1150.js) | | [Python](1100/1150.py)
 **1151** | [Fibonacci Fácil](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151) | [C#](1100/1151.cs) | [Dart](1100/1151.dart) | [JavaScript](1100/1151.js) | [PHP](1100/1151.php) | [Python](1100/1151.py)
+**1153** | [Fatorial Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153) | [C#](1100/1153.cs) | [Dart](1100/1153.dart) | [JavaScript](1100/1153.js) | [PHP](1100/1153.php) | [Python](1100/1153.py)
