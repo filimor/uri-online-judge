@@ -1,11 +1,11 @@
-const [x, y] = require('fs').readFileSync('/dev/stdin', 'utf8').split(' ');
+const [x, y] = require('fs')
+  .readFileSync('/dev/stdin', 'utf8')
+  .split(' ')
+  .map(x => Number(x));
 
-for (let i = 1; i <= y;) {
-  for (let j = 1; j < x; j++) {
-    process.stdout.write(`${i++} `);
-  }
+const numeros = [...Array(y + 1).keys()];
+numeros.shift();
 
-  if (i <= y) {
-    console.log(`${i++}`);
-  }
+while (numeros.length > 0) {
+  console.log(numeros.splice(0, x).join(' '));
 }

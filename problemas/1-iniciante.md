@@ -83,3 +83,4 @@
 **1151** | [Fibonacci Fácil](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151) | [C#](1100/1151.cs) | [Dart](1100/1151.dart) | [JavaScript](1100/1151.js) | [PHP](1100/1151.php) | [Python](1100/1151.py)
 **1153** | [Fatorial Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153) | [C#](1100/1153.cs) | [Dart](1100/1153.dart) | [JavaScript](1100/1153.js) | [PHP](1100/1153.php) | [Python](1100/1153.py)
 **1154** | [Idades](https://www.urionlinejudge.com.br/judge/pt/problems/view/1154) | [C#](1100/1154.cs) | [Dart](1100/1154.dart) | | [PHP](1100/1154.php) | [Python](1100/1154.py)
+**1155** | [Sequência S](https://www.urionlinejudge.com.br/judge/pt/problems/view/1155) | [C#](1100/1155.cs) | [Dart](1100/1155.dart) | [JavaScript](1100/1155.js) | [PHP](1100/1155.php) | [Python](1100/1155.py)
