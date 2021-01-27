@@ -87,3 +87,4 @@
 **1156** | [Sequência S II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1156) | [C#](1100/1156.cs) | [Dart](1100/1156.dart) | [JavaScript](1100/1156.js) | [PHP](1100/1156.php) | [Python](1100/1156.py)
 **1157** | [Divisores I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157) | [C#](1100/1157.cs) | [Dart](1100/1157.dart) | [JavaScript](1100/1157.js) | [PHP](1100/1157.php) | [Python](1100/1157.py)
 **1158** | [Soma de Ímpares Consecutivos III](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158) | [C#](1100/1158.cs) | [Dart](1100/1158.dart) | [JavaScript](1100/1158.js) | [PHP](1100/1158.php) | [Python](1100/1158.py)
+**1159** | [Soma de Pares Consecutivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159) | [C#](1100/1159.cs) | [Dart](1100/1159.dart) | [JavaScript](1100/1159.js) | [PHP](1100/1159.php) | [Python](1100/1159.py)
