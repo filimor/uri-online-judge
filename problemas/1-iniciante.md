@@ -84,3 +84,5 @@
 **1153** | [Fatorial Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1153) | [C#](1100/1153.cs) | [Dart](1100/1153.dart) | [JavaScript](1100/1153.js) | [PHP](1100/1153.php) | [Python](1100/1153.py)
 **1154** | [Idades](https://www.urionlinejudge.com.br/judge/pt/problems/view/1154) | [C#](1100/1154.cs) | [Dart](1100/1154.dart) | | [PHP](1100/1154.php) | [Python](1100/1154.py)
 **1155** | [Sequência S](https://www.urionlinejudge.com.br/judge/pt/problems/view/1155) | [C#](1100/1155.cs) | [Dart](1100/1155.dart) | [JavaScript](1100/1155.js) | [PHP](1100/1155.php) | [Python](1100/1155.py)
+**1156** | [Sequência S II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1156) | [C#](1100/1156.cs) | [Dart](1100/1156.dart) | [JavaScript](1100/1156.js) | [PHP](1100/1156.php) | [Python](1100/1156.py)
+**1157** | [Divisores I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157) | [C#](1100/1157.cs) | [Dart](1100/1157.dart) | [JavaScript](1100/1157.js) | [PHP](1100/1157.php) | [Python](1100/1157.py)
