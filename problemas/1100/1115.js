@@ -8,12 +8,12 @@ while (true) {
   }
 
   quadrante = x > 0 && y > 0 ?
-    "primeiro"
+    'primeiro'
     : x < 0 && y > 0 ?
-      "segundo"
+      'segundo'
       : x < 0 && y < 0 ?
-        "terceiro"
-        : "quarto";
+        'terceiro'
+        : 'quarto';
 
   console.log(quadrante);
 }

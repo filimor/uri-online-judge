@@ -6,6 +6,6 @@ function* range(start, end) {
   }
 }
 
-while((n = Number(entrada.shift())) !== 0) {
+while ((n = Number(entrada.shift())) !== 0) {
   console.log([...range(1, n)].join(' '));
 }

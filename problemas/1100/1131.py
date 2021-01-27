@@ -22,10 +22,10 @@ print(f'Gremio:{totalGremio}')
 print(f'Empates:{empates}')
 
 if totalInter > totalGremio:
-    vencedor = "Inter venceu mais"
+    vencedor = 'Inter venceu mais'
 elif totalGremio > totalInter:
-    vencedor = "Gremio venceu mais"
+    vencedor = 'Gremio venceu mais'
 else:
-    vencedor = "Nao houve vencedor"
+    vencedor = 'Nao houve vencedor'
 
 print(vencedor)

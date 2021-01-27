@@ -4,7 +4,7 @@ void main() {
   int n;
   var idades = new List<int>();
 
-  while((n = int.parse(stdin.readLineSync())) >= 0) {
+  while ((n = int.parse(stdin.readLineSync())) >= 0) {
     idades.add(n);
   }
 
