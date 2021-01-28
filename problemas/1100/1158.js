@@ -1,5 +1,5 @@
 const entrada = require('fs').readFileSync('/dev/stdin', 'utf8').split('\n');
-const n = parseInt(entrada.shift());
+const n = Number(entrada.shift());
 
 for (let i = 0; i < n; i++) {
   let [x, y] = entrada.shift().split(' ').map(z => Number(z));

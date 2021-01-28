@@ -1,7 +1,7 @@
 const numeros = require('fs')
   .readFileSync('/dev/stdin', 'utf-8')
   .split('\n')
-  .map(x => parseFloat(x))
+  .map(x => Number(x))
   .filter(x => x > 0);
 
 console.log(`${numeros.length} valores positivos`);

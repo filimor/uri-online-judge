@@ -1,4 +1,4 @@
-const mes = parseInt(require('fs').readFileSync('/dev/stdin', 'utf-8'));
+const mes = Number(require('fs').readFileSync('/dev/stdin', 'utf-8'));
 
 const meses = {
   1: 'January',

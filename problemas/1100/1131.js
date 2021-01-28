@@ -5,7 +5,7 @@ let totalInter = 0;
 let empates = 0;
 
 do {
-  const [inter, gremio] = entrada.shift().split(' ').map(x => parseInt(x));
+  const [inter, gremio] = entrada.shift().split(' ').map(x => Number(x));
 
   if (inter > gremio) {
     totalInter++;

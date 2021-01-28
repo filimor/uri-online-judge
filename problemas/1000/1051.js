@@ -1,4 +1,4 @@
-let salario = parseFloat(require('fs').readFileSync('/dev/stdin', 'utf-8'));
+let salario = Number(require('fs').readFileSync('/dev/stdin', 'utf-8'));
 let imposto = 0.0;
 
 const faixas = new Map([

@@ -1,4 +1,4 @@
-const salario = parseFloat(require('fs').readFileSync('/dev/stdin', 'utf-8'));
+const salario = Number(require('fs').readFileSync('/dev/stdin', 'utf-8'));
 
 const indice = salario <= 400.00 ? 0.15
   : salario <= 800.00 ? 0.12
