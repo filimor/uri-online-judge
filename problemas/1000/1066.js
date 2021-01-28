@@ -8,16 +8,16 @@ let impares = 0;
 let positivos = 0;
 let negativos = 0;
 
-for (let numero of numeros) {
-  if (numero % 2 === 0) {
+for (let i = 0; i < 5; i++) {
+  if (numeros[i] % 2 === 0) {
     pares++;
   } else {
     impares++;
   }
 
-  if (numero > 0) {
+  if (numeros[i] > 0) {
     positivos++;
-  } else if (numero < 0) {
+  } else if (numeros[i] < 0) {
     negativos++;
   }
 }

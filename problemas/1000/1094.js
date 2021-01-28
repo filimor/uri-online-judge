@@ -1,6 +1,6 @@
 const entrada = require('fs').readFileSync('/dev/stdin', 'utf-8').split('\n');
 
-entrada.shift();
+const n = Number(entrada.shift());
 
 const cobaias = {
   'C': 0,
@@ -8,13 +8,10 @@ const cobaias = {
   'S': 0
 };
 
-console.log(entrada);
-
-entrada.forEach((x) => {
-  const linha = x.replace('\r', '').split(' ');
-  cobaias[linha[1]] += parseInt(linha[0]);
-});
-
+for (let i = 0; i < n; i++) {
+  let [quantia, tipo] = entrada.shift().replace('\r', '').split(' ');
+  cobaias[tipo] += Number(quantia);
+}
 
 const total = Object.values(cobaias).reduce((x, y) => x + y);
 const divisor = total / 100;

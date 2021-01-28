@@ -1,8 +1,8 @@
 const inteiros = require('fs')
   .readFileSync('/dev/stdin', 'utf-8')
   .split('\n')
-  .map(x => parseInt(x));
-const maior = inteiros.reduce((x, y) => Math.max(x, y));
+  .map(x => Number(x));
+const maior = Math.max(...inteiros);
 
 console.log(maior);
 console.log(inteiros.indexOf(maior) + 1);
