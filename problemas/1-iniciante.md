@@ -89,3 +89,4 @@
 **1158** | [Soma de Ímpares Consecutivos III](https://www.urionlinejudge.com.br/judge/pt/problems/view/1158) | [C#](1100/1158.cs) | [Dart](1100/1158.dart) | [JavaScript](1100/1158.js) | [PHP](1100/1158.php) | [Python](1100/1158.py)
 **1159** | [Soma de Pares Consecutivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159) | [C#](1100/1159.cs) | [Dart](1100/1159.dart) | [JavaScript](1100/1159.js) | [PHP](1100/1159.php) | [Python](1100/1159.py)
 **1160** | [Crescimento Populacional](https://www.urionlinejudge.com.br/judge/pt/problems/view/1160) | [C#](1100/1160.cs) | [Dart](1100/1160.dart) | [JavaScript](1100/1160.js) | [PHP](1100/1160.php) | [Python](1100/1160.py)
+**1164** | [Número Perfeito](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) | [C#](1100/1164.cs) | [Dart](1100/1164.dart) | [JavaScript](1100/1164.js) | [PHP](1100/1164.php) | [Python](1100/1164.py)
