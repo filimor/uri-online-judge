@@ -5,14 +5,14 @@ void main() {
 
   for (var i = 0; i < n; i++) {
     int x = int.parse(stdin.readLineSync());
-    int soma = 0;
+    bool primo = true;
 
-    for (var j = 1; j < x; j++) {
+    for (var j = 2; j < x; j++) {
       if (x % j == 0) {
-          soma += j;
+        primo = false;
       }
     }
 
-    stdout.writeln(x.toString() + (soma == x ? ' eh perfeito' : ' nao eh perfeito'));
+    stdout.writeln(x.toString() + (primo ? ' eh primo' : ' nao eh primo'));
   }
 }

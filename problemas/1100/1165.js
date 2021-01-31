@@ -6,13 +6,13 @@ const n = entrada.shift();
 
 for (let i = 0; i < n; i++) {
   const x = entrada.shift();
-  let soma = 0;
+  let primo = true;
 
-  for (let j = 1; j < x; j++) {
+  for (let j = 2; j < x; j++) {
     if (x % j === 0) {
-      soma += j;
+      primo = false;
     }
   }
 
-  console.log(x + (soma === x ? ' eh perfeito' : ' nao eh perfeito'));
+  console.log(x + (primo ? ' eh primo' : ' nao eh primo'));
 }
