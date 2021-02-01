@@ -91,3 +91,4 @@
 **1160** | [Crescimento Populacional](https://www.urionlinejudge.com.br/judge/pt/problems/view/1160) | [C#](1100/1160.cs) | [Dart](1100/1160.dart) | [JavaScript](1100/1160.js) | [PHP](1100/1160.php) | [Python](1100/1160.py)
 **1164** | [Número Perfeito](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164) | [C#](1100/1164.cs) | [Dart](1100/1164.dart) | [JavaScript](1100/1164.js) | [PHP](1100/1164.php) | [Python](1100/1164.py)
 **1165** | [Número Primo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165) | [C#](1100/1165.cs) | [Dart](1100/1165.dart) | [JavaScript](1100/1165.js) | [PHP](1100/1165.php) | [Python](1100/1165.py)
+**1172** | [Substituição em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172) | [C#](1100/1172.cs) | [Dart](1100/1172.dart) | [JavaScript](1100/1172.js) | | [Python](1100/1172.py)
