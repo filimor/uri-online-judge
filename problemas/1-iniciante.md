@@ -94,3 +94,4 @@
 **1172** | [Substituição em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172) | [C#](1100/1172.cs) | [Dart](1100/1172.dart) | [JavaScript](1100/1172.js) | | [Python](1100/1172.py)
 **1173** | [Preenchimento de Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173) | [C#](1100/1173.cs) | [Dart](1100/1173.dart) | [JavaScript](1100/1173.js) | [PHP](1100/1173.php) | [Python](1100/1173.py)
 **1174** | [Seleçao em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1174) | [C#](1100/1174.cs) | [Dart](1100/1174.dart) | [JavaScript](1100/1174.js) | [PHP](1100/1174.php) | [Python](1100/1174.py)
+**1175** | [Troca em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175) | [C#](1100/1175.cs) | [Dart](1100/1175.dart) | [JavaScript](1100/1175.js) | [PHP](1100/1175.php) | [Python](1100/1175.py) | [C# .NET 5 (**não suportado**)](1100/1175.net5.cs)
