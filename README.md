@@ -38,23 +38,45 @@ Unfortunately, the rest of the repository pages remains without translation.
 6. Paradigms - Dynamic Programming, Binary Search, Greedy, Backtracking ...
 7. Graph - Flood Fill, MST, SSSP, DAG, Maximum Flow, Tree...
 8. Computational Geometry - Points and Lines, Polygon...
-9. SQL - Query Languages: Select, Insert, Update, Create
+9. [SQL](problemas/9-sql.md) - Query Languages: Select, Insert, Update, Create
 
-<!-- 1. [Beginner](problemas/1-iniciante.md) - Basic problems for anyone who has just started to program...
-2. [Ad-Hoc](problemas/2-ad-hoc.md) - Simulation Problems, Dates, Games and general Ad-Hoc...
+<!-- 2. [Ad-Hoc](problemas/2-ad-hoc.md) - Simulation Problems, Dates, Games and general Ad-Hoc...
 3. [Strings](problemas/3-strings.md) - Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation...
 4. [Data Structures and Libraries](problemas/4-estruturas-bibliotecas.md) - Queue, Stack, Sort, Map, Set...
 5. [Mathematics](problemas/5-matematica.md) - Number Theory, Prime Numbers, Combinatorics, BigInteger...
 6. [Paradigms](problemas/6-paradigmas.md) - Dynamic Programming, Binary Search, Greedy, Backtracking ...
 7. [Graph](problemas/7-grafos.md) - Flood Fill, MST, SSSP, DAG, Maximum Flow, Tree...
-8. [Computational Geometry](problemas/8-geometria-computacional.md) - Points and Lines, Polygon...
-9. [SQL](problemas/9-sql.md) - Query Languages: Select, Insert, Update, Create -->
+8. [Computational Geometry](problemas/8-geometria-computacional.md) - Points and Lines, Polygon... -->
 
 ## Problems by number
 
-[1000 a 1099](problemas/1000)
+[1000 a 1099](problemas/1000) |
+1000 a 1099 |
+1100 a 1199 |
+1200 a 1299 |
+1300 a 1399 |
+1400 a 1499 |
+1500 a 1599 |
+1600 a 1699 |
+1700 a 1799 |
+1800 a 1899 |
+1900 a 1999 |
+2000 a 2099 |
+2100 a 2199 |
+2200 a 2299 |
+2300 a 2399 |
+2400 a 2499 |
+2500 a 2599 |
+[2600 a 2699](problemas/2600) |
+2700 a 2799 |
+2800 a 2899 |
+2900 a 2999 |
+3000 a 3099 |
+3100 a 3199
 
-<!-- [1000 a 1099](problemas/1000) |
+<!--
+[1000 a 1099](problemas/1000) |
+[1000 a 1099](problemas/1000) |
 [1100 a 1199](problemas/1100) |
 [1200 a 1299](problemas/1200) |
 [1300 a 1399](problemas/1300) |
@@ -75,7 +97,8 @@ Unfortunately, the rest of the repository pages remains without translation.
 [2800 a 2899](problemas/2800) |
 [2900 a 2999](problemas/2900) |
 [3000 a 3099](problemas/3000) |
-[3100 a 3199](problemas/3100) -->
+[3100 a 3199](problemas/3100)
+-->
 
 ## Code of Ethics
 

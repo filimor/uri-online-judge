@@ -31,17 +31,51 @@ todos em português. Infelizmente, o restante das páginas do repositório perma
 ## Problemas por categoria
 
 1. [Iniciante](problemas/1-iniciante.md) - Problemas básicos para quem está iniciando na programação...
-2. [Ad-Hoc](problemas/2-ad-hoc.md) - Problemas de Simulação, Datas e Ad-Hoc no geral...
+2. Ad-Hoc - Problemas de Simulação, Datas e Ad-Hoc no geral...
+3. Strings - Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings...
+4. Estruturas e Bibliotecas](problemas/4-estruturas-bibliotecas.md) - Filas, Pilhas, Ordenação, Mapas...
+5. Matemática -  Sistemas Numéricos, Número Primos, BigInteger...
+6. Paradigmas - Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
+7. Grafos - Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores...
+8. Geometria Computacional - Pontos e Linhas, Polígonos...
+9. [SQL](problemas/9-sql.md) - Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
+
+<!-- 2. [Ad-Hoc](problemas/2-ad-hoc.md) - Problemas de Simulação, Datas e Ad-Hoc no geral...
 3. [Strings](problemas/3-strings.md) - Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings...
 4. [Estruturas e Bibliotecas](problemas/4-estruturas-bibliotecas.md) - Filas, Pilhas, Ordenação, Mapas...
 5. [Matemática](problemas/5-matematica.md) -  Sistemas Numéricos, Número Primos, BigInteger...
 6. [Paradigmas](problemas/6-paradigmas.md) - Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
 7. [Grafos](problemas/7-grafos.md) - Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores...
-8. [Geometria Computacional](problemas/8-geometria-computacional.md) - Pontos e Linhas, Polígonos...
-9. [SQL](problemas/9-sql.md) - Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
+8. [Geometria Computacional](problemas/8-geometria-computacional.md) - Pontos e Linhas, Polígonos... -->
 
 ## Problemas por número
 
+[1000 a 1099](problemas/1000) |
+1000 a 1099 |
+1100 a 1199 |
+1200 a 1299 |
+1300 a 1399 |
+1400 a 1499 |
+1500 a 1599 |
+1600 a 1699 |
+1700 a 1799 |
+1800 a 1899 |
+1900 a 1999 |
+2000 a 2099 |
+2100 a 2199 |
+2200 a 2299 |
+2300 a 2399 |
+2400 a 2499 |
+2500 a 2599 |
+[2600 a 2699](problemas/2600) |
+2700 a 2799 |
+2800 a 2899 |
+2900 a 2999 |
+3000 a 3099 |
+3100 a 3199
+
+<!--
+[1000 a 1099](problemas/1000) |
 [1000 a 1099](problemas/1000) |
 [1100 a 1199](problemas/1100) |
 [1200 a 1299](problemas/1200) |
@@ -64,6 +98,7 @@ todos em português. Infelizmente, o restante das páginas do repositório perma
 [2900 a 2999](problemas/2900) |
 [3000 a 3099](problemas/3000) |
 [3100 a 3199](problemas/3100)
+-->
 
 ## Código de Ética
 
