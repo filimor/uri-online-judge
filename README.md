@@ -1,6 +1,6 @@
 # URI Online Judge
 
-> A collection of solutions for the URI Online Judge using C#, Dart, JavaScript, PHP, Python and SQL languages.
+> A collection of solutions for the URI Online Judge using C#, Dart, Java, JavaScript, PHP, Python and SQL languages.
 
 ![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/filimor/uri-online-judge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/filimor/uri-online-judge)
