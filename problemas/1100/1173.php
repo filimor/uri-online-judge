@@ -1,10 +1,10 @@
 <?php
 
-$n = Array();
-array_push($n, readline());
+$n = array(10);
+$n[0] = readline();
 echo "N[0] = {$n[0]}\n";
 
 for ($i = 1; $i < 10; $i++) {
-    array_push($n, $n[$i - 1] * 2);
+    $n[$i] = $n[$i - 1] * 2;
     echo "N[{$i}] = {$n[$i]}\n";
 }

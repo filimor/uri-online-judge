@@ -20,8 +20,6 @@ while (($tipo = readline()) != $endKey) {
     }
 }
 
-//var_dump($combustiveis);
-//var_dump($abastecidos);
 unset($abastecidos[$endKey]);
 echo "MUITO OBRIGADO\n";
 foreach ($abastecidos as $key => $value) {

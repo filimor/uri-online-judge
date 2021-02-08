@@ -1,9 +1,9 @@
 <?php
 
-//$numeros = array();
+$numeros = array(5);
 
 for ($i = 0; $i < 5; $i++) {
-    array_push($numeros, readline());
+    $numeros[$i] = readline();
 }
 
 echo count(array_filter($numeros, fn($x) => $x % 2 == 0)) . " valor(es) par(es)\n";

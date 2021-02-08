@@ -2,10 +2,10 @@
 
 $t = readline();
 $j = 0;
-$n = Array();
+$n = array(1000);
 
 for ($i = 0; $i < 1000; $i++) {
-    array_push($n, $j++);
+    $n[$i] = $j++;
     echo "N[{$i}] = {$n[$i]}\n";
 
     if ($j == $t) {
