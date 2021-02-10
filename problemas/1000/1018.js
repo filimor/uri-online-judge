@@ -4,6 +4,6 @@ const cedulas = [100, 50, 20, 10, 5 , 2, 1];
 console.log(valor);
 
 for (let cedula of cedulas) {
-  console.log(`${Number(valor / cedula)} nota(s) de R$ ${cedula},00`);
+  console.log(`${Math.floor(valor / cedula)} nota(s) de R$ ${cedula},00`);
   valor %= cedula;
 }

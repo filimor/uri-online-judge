@@ -99,3 +99,4 @@
 **1177** | [Preenchimento de Vetor II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177) | [C#](1100/1177.cs) | [Dart](1100/1177.dart) | | [JavaScript](1100/1177.js) | [PHP](1100/1177.php) | [Python](1100/1177.py)
 **1178** | [Preenchimento de Vetor III](https://www.urionlinejudge.com.br/judge/pt/problems/view/1178) | [C#](1100/1178.cs) | | | | [PHP](1100/1178.php) | [Python](1100/1178.py)
 **1179** | [Preenchimento de Vetor IV](https://www.urionlinejudge.com.br/judge/pt/problems/view/1179) | [C#](1100/1179.cs) | [Dart](1100/1179.dart) | | [JavaScript](1100/1179.js) | [PHP](1100/1179.php) | [Python](1100/1179.py)
+**1180** | [Menor e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180) | [C#](1100/1180.cs) | [Dart](1100/1180.dart) | | [JavaScript](1100/1180.js) | | [Python](1100/1180.py)
